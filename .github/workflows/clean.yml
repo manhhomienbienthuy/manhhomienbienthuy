@@ -1,0 +1,13 @@
+name: cleanup
+on:
+  schedule:
+    - cron: "0 0 * * MON"
+  workflow_dispatch:
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh api repos/$REPO/actions/runs --paginate -q ".workflow_runs[] | select(.created_at < \"$(date -u -d '-1 hour' +%Y-%m-%dT%H:%M:%SZ)\") | (.id)" | xargs -I % gh api repos/$REPO/actions/runs/% -X DELETE > /dev/null
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
