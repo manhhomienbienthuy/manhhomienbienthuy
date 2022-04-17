@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [NodeJS: Blocking & Non-blocking I/O](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 - [Hiểu hơn JavaScript: Object, Prototype và Class](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
 - [Đừng dùng last n versions với browserslist](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
 - [So sánh nhỏ: TypeScript vs JavaScript](https://manhhomienbienthuy.github.io/2022/03/01/so-sanh-nho-typescript-vs-javascript.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Hiểu về view port và view box trong SVG](https://manhhomienbienthuy.github.io/2021/09/02/hieu-ve-view-port-va-view-box-trong-svg.html)
 - [Đập đi làm lại blog với Tailwind CSS](https://manhhomienbienthuy.github.io/2021/08/23/dap-di-lam-lai-blog-voi-tailwind-css.html)
-- [Lập trình desktop app với Electron](https://manhhomienbienthuy.github.io/2021/08/02/lap-trinh-desktop-app-voi-electron.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -89,19 +89,19 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/04d@2x.png)
+![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **9.46°C**, độ ẩm **95%**, cảm giác như **9.46°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **15.2°C**, độ ẩm **65%**, cảm giác như **14.47°C**.
 
-Nhiệt độ thấp nhất là **8.34°C** và cao nhất là **10.82°C**
+Nhiệt độ thấp nhất là **13.63°C** và cao nhất là **15.81°C**
 
-Hôm nay mặt trời mọc lúc **05:24** và lặn lúc **18:04**.
+Hôm nay mặt trời mọc lúc **05:06** và lặn lúc **18:15**.
 
 ---
 
 ![build](https://github.com/manhhomienbienthuy/manhhomienbienthuy/actions/workflows/build.yml/badge.svg)
 
-Cập nhận lần cuối lúc 11:12:52 GMT+9, Thứ Hai, 4 tháng 4, 2022
+Cập nhận lần cuối lúc 18:33:27 GMT+9, Chủ Nhật, 17 tháng 4, 2022
 
 ---
 
