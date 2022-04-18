@@ -87,22 +87,20 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Redmine](https://img.shields.io/badge/Redmine-B32024.svg?style=for-the-badge&logo=redmine&logoColor=white)
 
+---
+
 ## Thời tiết hiện tại
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa vừa, nhiệt độ **15.15°C**, độ ẩm **83%**, cảm giác như **14.89°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **14.22°C**, độ ẩm **88%**, cảm giác như **14°C**.
 
-Nhiệt độ thấp nhất là **13.46°C** và cao nhất là **17.25°C**
+Nhiệt độ thấp nhất là **12.49°C** và cao nhất là **16.14°C**
 
 Hôm nay mặt trời mọc lúc **05:05** và lặn lúc **18:15**.
 
 ---
 
-![build](https://github.com/manhhomienbienthuy/manhhomienbienthuy/actions/workflows/build.yml/badge.svg)
-
-Cập nhận lần cuối lúc 16:32:48 GMT+9, Thứ Hai, 18 tháng 4, 2022
-
----
-
 Copyright © 2022 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
+
+Cập nhận lần cuối lúc 17:27:33 GMT+9, Thứ Hai, 18 tháng 4, 2022
