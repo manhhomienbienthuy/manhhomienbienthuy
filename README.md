@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [PostgreSQL vs MySQL](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
 - [NodeJS: Blocking & Non-blocking I/O](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 - [Hiểu hơn JavaScript: Object, Prototype và Class](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
 - [Đừng dùng last n versions với browserslist](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Chuyển đổi encoding tiếng Nhật trong NodeJS](https://manhhomienbienthuy.github.io/2022/01/14/chuyen-doi-encoding-tieng-nhat-trong-nodejs.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Hiểu về view port và view box trong SVG](https://manhhomienbienthuy.github.io/2021/09/02/hieu-ve-view-port-va-view-box-trong-svg.html)
-- [Đập đi làm lại blog với Tailwind CSS](https://manhhomienbienthuy.github.io/2021/08/23/dap-di-lam-lai-blog-voi-tailwind-css.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -93,9 +93,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **22.47°C**, độ ẩm **55%**, cảm giác như **22.21°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **21.32°C**, độ ẩm **58%**, cảm giác như **21.02°C**.
 
-Nhiệt độ thấp nhất là **20.99°C** và cao nhất là **23.37°C**
+Nhiệt độ thấp nhất là **20.38°C** và cao nhất là **21.92°C**
 
 Hôm nay mặt trời mọc lúc **04:44** và lặn lúc **18:31**.
 
@@ -103,4 +103,4 @@ Hôm nay mặt trời mọc lúc **04:44** và lặn lúc **18:31**.
 
 Copyright © 2022 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 16:32:58 GMT+9, Thứ Sáu, 6 tháng 5, 2022
+Cập nhận lần cuối lúc 17:41:00 GMT+9, Thứ Sáu, 6 tháng 5, 2022
