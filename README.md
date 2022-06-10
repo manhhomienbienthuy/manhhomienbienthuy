@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Bash vs Z shell](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [PostgreSQL vs MySQL](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
 - [NodeJS: Blocking & Non-blocking I/O](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 - [Hiểu hơn JavaScript: Object, Prototype và Class](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Thế giới rộng lớn của JavaScript](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
 - [Chuyển đổi encoding tiếng Nhật trong NodeJS](https://manhhomienbienthuy.github.io/2022/01/14/chuyen-doi-encoding-tieng-nhat-trong-nodejs.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
-- [Hiểu về view port và view box trong SVG](https://manhhomienbienthuy.github.io/2021/09/02/hieu-ve-view-port-va-view-box-trong-svg.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -93,9 +93,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **25.33°C**, độ ẩm **57%**, cảm giác như **25.41°C**.
+Hiện tại, trời mây cụm, nhiệt độ **25.36°C**, độ ẩm **56%**, cảm giác như **25.41°C**.
 
-Nhiệt độ thấp nhất là **22.82°C** và cao nhất là **26.24°C**
+Nhiệt độ thấp nhất là **23.94°C** và cao nhất là **26.68°C**
 
 Hôm nay mặt trời mọc lúc **04:24** và lặn lúc **18:56**.
 
@@ -103,4 +103,4 @@ Hôm nay mặt trời mọc lúc **04:24** và lặn lúc **18:56**.
 
 Copyright © 2022 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 13:45:42 GMT+9, Thứ Sáu, 10 tháng 6, 2022
+Cập nhận lần cuối lúc 14:30:58 GMT+9, Thứ Sáu, 10 tháng 6, 2022
