@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [NodeJS thích hợp với những ứng dụng nào](https://manhhomienbienthuy.github.io/2022/08/24/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Bash vs Z shell](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [PostgreSQL vs MySQL](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
 - [NodeJS: Blocking & Non-blocking I/O](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Tự động build blog (dùng Pelican) với GitHub Actions](https://manhhomienbienthuy.github.io/2022/02/10/tu-dong-build-blog-dung-pelican-voi-github-actions.html)
 - [Thế giới rộng lớn của JavaScript](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
 - [Chuyển đổi encoding tiếng Nhật trong NodeJS](https://manhhomienbienthuy.github.io/2022/01/14/chuyen-doi-encoding-tieng-nhat-trong-nodejs.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -93,9 +93,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **30.31°C**, độ ẩm **60%**, cảm giác như **33.43°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **29.59°C**, độ ẩm **63%**, cảm giác như **32.63°C**.
 
-Nhiệt độ thấp nhất là **28.82°C** và cao nhất là **31.19°C**
+Nhiệt độ thấp nhất là **27.88°C** và cao nhất là **31.14°C**
 
 Hôm nay mặt trời mọc lúc **05:06** và lặn lúc **18:21**.
 
@@ -103,4 +103,4 @@ Hôm nay mặt trời mọc lúc **05:06** và lặn lúc **18:21**.
 
 Copyright © 2022 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 15:45:06 GMT+9 Thứ Tư, 24 tháng 8, 2022
+Cập nhận lần cuối lúc 16:32:59 GMT+9 Thứ Tư, 24 tháng 8, 2022
