@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Podman vs Docker](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
 - [NodeJS thích hợp với những ứng dụng nào](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Bash vs Z shell](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [PostgreSQL vs MySQL](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [So sánh nhỏ: TypeScript vs JavaScript](https://manhhomienbienthuy.github.io/2022/03/01/so-sanh-nho-typescript-vs-javascript.html)
 - [Tự động build blog (dùng Pelican) với GitHub Actions](https://manhhomienbienthuy.github.io/2022/02/10/tu-dong-build-blog-dung-pelican-voi-github-actions.html)
 - [Thế giới rộng lớn của JavaScript](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
-- [Chuyển đổi encoding tiếng Nhật trong NodeJS](https://manhhomienbienthuy.github.io/2022/01/14/chuyen-doi-encoding-tieng-nhat-trong-nodejs.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -103,4 +103,4 @@ Hôm nay mặt trời mọc lúc **05:13** và lặn lúc **18:09**.
 
 Copyright © 2022 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 16:26:51 GMT+9 Thứ Sáu, 2 tháng 9, 2022
+Cập nhận lần cuối lúc 16:39:36 GMT+9 Thứ Sáu, 2 tháng 9, 2022
