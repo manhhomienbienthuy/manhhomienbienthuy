@@ -18,7 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
-- [NodeJS thích hợp với những ứng dụng nào](https://manhhomienbienthuy.github.io/2022/08/24/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
+- [NodeJS thích hợp với những ứng dụng nào](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Bash vs Z shell](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [PostgreSQL vs MySQL](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
 - [NodeJS: Blocking & Non-blocking I/O](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
@@ -93,9 +93,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa nhẹ, nhiệt độ **23.5°C**, độ ẩm **92%**, cảm giác như **24.31°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **23.24°C**, độ ẩm **92%**, cảm giác như **24.02°C**.
 
-Nhiệt độ thấp nhất là **22.63°C** và cao nhất là **24.99°C**
+Nhiệt độ thấp nhất là **22.23°C** và cao nhất là **24.99°C**
 
 Hôm nay mặt trời mọc lúc **05:13** và lặn lúc **18:09**.
 
@@ -103,4 +103,4 @@ Hôm nay mặt trời mọc lúc **05:13** và lặn lúc **18:09**.
 
 Copyright © 2022 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 15:58:30 GMT+9 Thứ Sáu, 2 tháng 9, 2022
+Cập nhận lần cuối lúc 16:26:51 GMT+9 Thứ Sáu, 2 tháng 9, 2022
