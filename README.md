@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Quản lý dependency cho Python](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
 - [Podman vs Docker](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
 - [NodeJS thích hợp với những ứng dụng nào](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Bash vs Z shell](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Đừng dùng last n versions với browserslist](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
 - [So sánh nhỏ: TypeScript vs JavaScript](https://manhhomienbienthuy.github.io/2022/03/01/so-sanh-nho-typescript-vs-javascript.html)
 - [Tự động build blog (dùng Pelican) với GitHub Actions](https://manhhomienbienthuy.github.io/2022/02/10/tu-dong-build-blog-dung-pelican-voi-github-actions.html)
-- [Thế giới rộng lớn của JavaScript](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -93,9 +93,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **23.23°C**, độ ẩm **71%**, cảm giác như **23.46°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **26.68°C**, độ ẩm **58%**, cảm giác như **27.57°C**.
 
-Nhiệt độ thấp nhất là **21.38°C** và cao nhất là **24.99°C**
+Nhiệt độ thấp nhất là **24.71°C** và cao nhất là **28.88°C**
 
 Hôm nay mặt trời mọc lúc **05:37** và lặn lúc **17:23**.
 
@@ -103,4 +103,4 @@ Hôm nay mặt trời mọc lúc **05:37** và lặn lúc **17:23**.
 
 Copyright © 2022 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 08:43:39 GMT+9 Thứ Hai, 3 tháng 10, 2022
+Cập nhận lần cuối lúc 11:35:04 GMT+9 Thứ Hai, 3 tháng 10, 2022
