@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
 - [Quản lý dependency cho Python](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
 - [Podman vs Docker](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
 - [NodeJS thích hợp với những ứng dụng nào](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Hiểu hơn JavaScript: Object, Prototype và Class](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
 - [Đừng dùng last n versions với browserslist](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
 - [So sánh nhỏ: TypeScript vs JavaScript](https://manhhomienbienthuy.github.io/2022/03/01/so-sanh-nho-typescript-vs-javascript.html)
-- [Tự động build blog (dùng Pelican) với GitHub Actions](https://manhhomienbienthuy.github.io/2022/02/10/tu-dong-build-blog-dung-pelican-voi-github-actions.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -93,9 +93,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **18.17°C**, độ ẩm **61%**, cảm giác như **17.64°C**.
+Hiện tại, trời mây cụm, nhiệt độ **20.48°C**, độ ẩm **61%**, cảm giác như **20.18°C**.
 
-Nhiệt độ thấp nhất là **16.24°C** và cao nhất là **20.12°C**
+Nhiệt độ thấp nhất là **18.94°C** và cao nhất là **22.88°C**
 
 Hôm nay mặt trời mọc lúc **06:05** và lặn lúc **16:43**.
 
@@ -103,4 +103,4 @@ Hôm nay mặt trời mọc lúc **06:05** và lặn lúc **16:43**.
 
 Copyright © 2022 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 08:37:15 GMT+9 Thứ Sáu, 4 tháng 11, 2022
+Cập nhận lần cuối lúc 11:39:29 GMT+9 Thứ Sáu, 4 tháng 11, 2022
