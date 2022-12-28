@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Năm 2022 nhìn lại: một thời covid](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 - [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
 - [Quản lý dependency cho Python](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
 - [Podman vs Docker](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [NodeJS: Blocking & Non-blocking I/O](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 - [Hiểu hơn JavaScript: Object, Prototype và Class](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
 - [Đừng dùng last n versions với browserslist](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
-- [So sánh nhỏ: TypeScript vs JavaScript](https://manhhomienbienthuy.github.io/2022/03/01/so-sanh-nho-typescript-vs-javascript.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -91,11 +91,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/04d@2x.png)
+![weather](https://openweathermap.org/img/wn/03d@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **4.82°C**, độ ẩm **63%**, cảm giác như **4.82°C**.
+Hiện tại, trời mây rải rác, nhiệt độ **8.17°C**, độ ẩm **50%**, cảm giác như **8.17°C**.
 
-Nhiệt độ thấp nhất là **2.82°C** và cao nhất là **7.25°C**
+Nhiệt độ thấp nhất là **6.38°C** và cao nhất là **10.66°C**
 
 Hôm nay mặt trời mọc lúc **06:50** và lặn lúc **16:34**.
 
@@ -103,4 +103,4 @@ Hôm nay mặt trời mọc lúc **06:50** và lặn lúc **16:34**.
 
 Copyright © 2022 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 08:29:03 GMT+9 Thứ Tư, 28 tháng 12, 2022
+Cập nhận lần cuối lúc 10:49:16 GMT+9 Thứ Tư, 28 tháng 12, 2022
