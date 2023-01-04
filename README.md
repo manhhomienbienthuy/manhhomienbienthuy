@@ -18,29 +18,29 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
-- [Năm 2022 nhìn lại: một thời covid](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html) (2022-12-28)
-- [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html) (2022-11-04)
-- [Quản lý dependency cho Python](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html) (2022-10-03)
-- [Podman vs Docker](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html) (2022-09-02)
-- [NodeJS thích hợp với những ứng dụng nào](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html) (2022-08-15)
-- [Bash vs Z shell](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html) (2022-06-10)
-- [PostgreSQL vs MySQL](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html) (2022-05-06)
-- [NodeJS: Blocking & Non-blocking I/O](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html) (2022-04-11)
-- [Hiểu hơn JavaScript: Object, Prototype và Class](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html) (2022-04-01)
-- [Đừng dùng last n versions với browserslist](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html) (2022-03-16)
+- [Năm 2022 nhìn lại: một thời covid (2022-12-28)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
+- [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2022-11-04)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
+- [Quản lý dependency cho Python (2022-10-03)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
+- [Podman vs Docker (2022-09-02)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
+- [NodeJS thích hợp với những ứng dụng nào (2022-08-15)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
+- [Bash vs Z shell (2022-06-10)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
+- [PostgreSQL vs MySQL (2022-05-06)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
+- [NodeJS: Blocking & Non-blocking I/O (2022-04-11)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
+- [Hiểu hơn JavaScript: Object, Prototype và Class (2022-04-01)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
+- [Đừng dùng last n versions với browserslist (2022-03-16)](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Năm 2022 nhìn lại: một thời covid](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html) (2022-12-31T10:28:41+09:00)
-- [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html) (2022-12-13T10:44:57+09:00)
-- [Quản lý dependency cho Python](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html) (2022-12-13T10:44:57+09:00)
-- [Podman vs Docker](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html) (2022-12-13T10:44:57+09:00)
-- [NodeJS thích hợp với những ứng dụng nào](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html) (2022-12-13T10:44:57+09:00)
-- [Bash vs Z shell](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html) (2022-12-13T10:44:57+09:00)
-- [PostgreSQL vs MySQL](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html) (2022-12-13T10:44:57+09:00)
-- [NodeJS: Blocking & Non-blocking I/O](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html) (2022-12-13T10:44:57+09:00)
-- [Hiểu hơn JavaScript: Object, Prototype và Class](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html) (2022-12-13T10:44:57+09:00)
-- [Đừng dùng last n versions với browserslist](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html) (2022-12-13T10:44:57+09:00)
+- [Năm 2022 nhìn lại: một thời covid (2022-12-31T10:28:41+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
+- [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
+- [Quản lý dependency cho Python (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
+- [Podman vs Docker (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
+- [NodeJS thích hợp với những ứng dụng nào (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
+- [Bash vs Z shell (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
+- [PostgreSQL vs MySQL (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
+- [NodeJS: Blocking & Non-blocking I/O (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
+- [Hiểu hơn JavaScript: Object, Prototype và Class (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
+- [Đừng dùng last n versions với browserslist (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:51** và lặn lúc **16:39**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 11:07:51 GMT+9 Thứ Tư, 4 tháng 1, 2023
+Cập nhận lần cuối lúc 11:10:02 GMT+9 Thứ Tư, 4 tháng 1, 2023
