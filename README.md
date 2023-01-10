@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Năm 2022 nhìn lại: một thời covid (2022-12-31T10:28:41+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
-- [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
+- [Năm 2022 nhìn lại: một thời covid (2023-01-10T09:16:07+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
+- [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2023-01-10T09:16:07+09:00)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
+- [NodeJS thích hợp với những ứng dụng nào (2023-01-10T09:16:07+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
+- [PostgreSQL vs MySQL (2023-01-10T09:16:07+09:00)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
+- [NodeJS: Blocking & Non-blocking I/O (2023-01-10T09:16:07+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
+- [Thế giới rộng lớn của JavaScript (2023-01-10T09:16:07+09:00)](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-01-10T09:16:07+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Quản lý dependency cho Python (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
 - [Podman vs Docker (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
-- [NodeJS thích hợp với những ứng dụng nào (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Bash vs Z shell (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
-- [PostgreSQL vs MySQL (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
-- [NodeJS: Blocking & Non-blocking I/O (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
-- [Hiểu hơn JavaScript: Object, Prototype và Class (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
-- [Đừng dùng last n versions với browserslist (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/02d@2x.png)
+![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời mây thưa, nhiệt độ **6.69°C**, độ ẩm **38%**, cảm giác như **6.08°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **8.24°C**, độ ẩm **29%**, cảm giác như **8.24°C**.
 
-Nhiệt độ thấp nhất là **5.58°C** và cao nhất là **8.36°C**
+Nhiệt độ thấp nhất là **7.55°C** và cao nhất là **9.43°C**
 
 Hôm nay mặt trời mọc lúc **06:51** và lặn lúc **16:44**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:51** và lặn lúc **16:44**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 08:28:52 GMT+9 Thứ Ba, 10 tháng 1, 2023
+Cập nhận lần cuối lúc 10:58:46 GMT+9 Thứ Ba, 10 tháng 1, 2023
