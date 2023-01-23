@@ -31,7 +31,8 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Sử dụng bàn phím Windows trên macOS (2023-01-12T15:38:13+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
+- [Sử dụng bàn phím Windows trên macOS (2023-01-23T16:06:37+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
+- [Bash vs Z shell (2023-01-23T16:06:37+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [Quản lý dependency cho Python (2023-01-12T15:38:13+09:00)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-01-12T15:38:13+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Năm 2022 nhìn lại: một thời covid (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [PostgreSQL vs MySQL (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
 - [NodeJS: Blocking & Non-blocking I/O (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 - [Thế giới rộng lớn của JavaScript (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
-- [Podman vs Docker (2022-12-13T10:44:57+09:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **5.93°C**, độ ẩm **80%**, cảm giác như **5.93°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **5.99°C**, độ ẩm **80%**, cảm giác như **5.99°C**.
 
-Nhiệt độ thấp nhất là **5.01°C** và cao nhất là **7.21°C**
+Nhiệt độ thấp nhất là **4.99°C** và cao nhất là **7.25°C**
 
 Hôm nay mặt trời mọc lúc **06:47** và lặn lúc **16:57**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:47** và lặn lúc **16:57**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 15:34:55 GMT+9 Thứ Hai, 23 tháng 1, 2023
+Cập nhận lần cuối lúc 16:28:01 GMT+9 Thứ Hai, 23 tháng 1, 2023
