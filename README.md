@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Xử lý lỗi cho Express route (2023-01-24)](https://manhhomienbienthuy.github.io/2023/01/24/xu-ly-loi-cho-express-route.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-01-12)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Năm 2022 nhìn lại: một thời covid (2022-12-28)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 - [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2022-11-04)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
@@ -27,10 +28,10 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Bash vs Z shell (2022-06-10)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [PostgreSQL vs MySQL (2022-05-06)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
 - [NodeJS: Blocking & Non-blocking I/O (2022-04-11)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
-- [Hiểu hơn JavaScript: Object, Prototype và Class (2022-04-01)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Xử lý lỗi cho Express route (2023-01-24T10:40:04+09:00)](https://manhhomienbienthuy.github.io/2023/01/24/xu-ly-loi-cho-express-route.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-01-23T16:06:37+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Bash vs Z shell (2023-01-23T16:06:37+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [Quản lý dependency cho Python (2023-01-12T15:38:13+09:00)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [NodeJS thích hợp với những ứng dụng nào (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [PostgreSQL vs MySQL (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
 - [NodeJS: Blocking & Non-blocking I/O (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
-- [Thế giới rộng lớn của JavaScript (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **4.56°C**, độ ẩm **74%**, cảm giác như **2.87°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **7.13°C**, độ ẩm **70%**, cảm giác như **5.77°C**.
 
-Nhiệt độ thấp nhất là **3.46°C** và cao nhất là **6.14°C**
+Nhiệt độ thấp nhất là **5.19°C** và cao nhất là **8.99°C**
 
 Hôm nay mặt trời mọc lúc **06:47** và lặn lúc **16:58**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:47** và lặn lúc **16:58**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 08:28:18 GMT+9 Thứ Ba, 24 tháng 1, 2023
+Cập nhận lần cuối lúc 10:54:17 GMT+9 Thứ Ba, 24 tháng 1, 2023
