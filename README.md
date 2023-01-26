@@ -31,8 +31,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Xử lý lỗi cho Express route (2023-01-24T10:40:04+09:00)](https://manhhomienbienthuy.github.io/2023/01/24/xu-ly-loi-cho-express-route.html)
-- [Sử dụng bàn phím Windows trên macOS (2023-01-23T16:06:37+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
+- [Xử lý lỗi cho Express route (2023-01-26T11:13:27+09:00)](https://manhhomienbienthuy.github.io/2023/01/24/xu-ly-loi-cho-express-route.html)
+- [Sử dụng bàn phím Windows trên macOS (2023-01-26T11:13:27+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
+- [Python: Object, Mutable and Immutable (2023-01-26T11:13:27+09:00)](https://manhhomienbienthuy.github.io/2018/08/20/python-object-mutable-and-immutable.html)
 - [Bash vs Z shell (2023-01-23T16:06:37+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [Quản lý dependency cho Python (2023-01-12T15:38:13+09:00)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-01-12T15:38:13+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
 - [NodeJS thích hợp với những ứng dụng nào (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [PostgreSQL vs MySQL (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
-- [NodeJS: Blocking & Non-blocking I/O (2023-01-10T16:44:26+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **5.29°C**, độ ẩm **42%**, cảm giác như **3.47°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **6.41°C**, độ ẩm **40%**, cảm giác như **6.41°C**.
 
-Nhiệt độ thấp nhất là **3.19°C** và cao nhất là **6.12°C**
+Nhiệt độ thấp nhất là **4.99°C** và cao nhất là **7.35°C**
 
 Hôm nay mặt trời mọc lúc **06:46** và lặn lúc **17:00**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:46** và lặn lúc **17:00**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 10:54:18 GMT+9 Thứ Năm, 26 tháng 1, 2023
+Cập nhận lần cuối lúc 11:50:25 GMT+9 Thứ Năm, 26 tháng 1, 2023
