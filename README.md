@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Node.js thích hợp với những ứng dụng nào (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
-- [Chuyển đổi encoding tiếng Nhật trong Node.js (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2022/01/14/chuyen-doi-encoding-tieng-nhat-trong-nodejs.html)
-- [Hiểu về view port và view box trong SVG (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2021/09/02/hieu-ve-view-port-va-view-box-trong-svg.html)
-- [Lập trình desktop app với Electron (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2021/08/02/lap-trinh-desktop-app-voi-electron.html)
-- [Xử lý khi đường dẫn có ký tự tiếng Nhật trong OpenCV (Python) (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2021/07/30/xu-ly-khi-duong-dan-co-ky-tu-tieng-nhat-trong-opencv-python.html)
-- [Python: *args & **kwargs (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2019/09/20/python-args-kwargs.html)
-- [JavaScript: modules (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2019/08/19/javascript-modules.html)
-- [Elasticsearch: tổ chức dữ liệu (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2019/06/20/elasticsearch-to-chuc-du-lieu.html)
-- [Elasticsearch: Giới thiệu (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2019/05/20/elasticsearch-gioi-thieu.html)
-- [JavaScript: Popups (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2019/04/20/javascript-popups.html)
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
+- [Luyện thi AWS SAP C01 – triển khai và vận hành (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2021/01/20/luyen-thi-aws-sap-c01-trien-khai-va-van-hanh.html)
+- [Luyện thi AWS SAP C01 – Lưu trữ dữ liệu (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/09/05/luyen-thi-aws-sap-c01-luu-tru-du-lieu.html)
+- [Luyện thi AWS SAP C01 – Danh sách các dịch vụ của AWS (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/08/27/luyen-thi-aws-sap-c01-danh-sach-cac-dich-vu-cua-aws.html)
+- [Du lịch Quy Nhơn – chuyến đi bão táp (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/01/21/du-lich-quy-nhon-chuyen-di-bao-tap.html)
+- [JavaScript: modules (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2019/08/19/javascript-modules.html)
+- [Elasticsearch: tổ chức dữ liệu (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2019/06/20/elasticsearch-to-chuc-du-lieu.html)
+- [HTML5 web worker: hiểu biết cơ bản (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2018/11/20/html5-web-worker-hieu-biet-co-ban.html)
+- [Rò rỉ thông tin cá nhân (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2018/11/09/ro-ri-thong-tin-ca-nhan.html)
+- [Các phương pháp tracking online (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2018/10/26/cac-phuong-phap-tracking-online.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/01d@2x.png)
+![weather](https://openweathermap.org/img/wn/03d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **9.28°C**, độ ẩm **56%**, cảm giác như **7.85°C**.
+Hiện tại, trời mây rải rác, nhiệt độ **11.17°C**, độ ẩm **36%**, cảm giác như **9.28°C**.
 
-Nhiệt độ thấp nhất là **8.37°C** và cao nhất là **11.03°C**
+Nhiệt độ thấp nhất là **8.6°C** và cao nhất là **13.36°C**
 
 Hôm nay mặt trời mọc lúc **06:42** và lặn lúc **17:07**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:42** và lặn lúc **17:07**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 11:11:32 GMT+9 Thứ Tư, 1 tháng 2, 2023
+Cập nhận lần cuối lúc 12:04:33 GMT+9 Thứ Tư, 1 tháng 2, 2023
