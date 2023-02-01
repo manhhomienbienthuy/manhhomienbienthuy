@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Xử lý lỗi cho Express route (2023-01-31T09:08:58+09:00)](https://manhhomienbienthuy.github.io/2023/01/24/xu-ly-loi-cho-express-route.html)
-- [Năm 2022 nhìn lại: một thời covid (2023-01-31T09:08:58+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
-- [Quản lý dependency cho Python (2023-01-31T09:08:58+09:00)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
-- [Node.js thích hợp với những ứng dụng nào (2023-01-31T09:08:58+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
-- [Node.js: Blocking & Non-blocking I/O (2023-01-31T09:08:58+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
-- [So sánh nhỏ: TypeScript vs JavaScript (2023-01-31T09:08:58+09:00)](https://manhhomienbienthuy.github.io/2022/03/01/so-sanh-nho-typescript-vs-javascript.html)
-- [Chuyển đổi encoding tiếng Nhật trong Node.js (2023-01-31T09:08:58+09:00)](https://manhhomienbienthuy.github.io/2022/01/14/chuyen-doi-encoding-tieng-nhat-trong-nodejs.html)
-- [Đập đi làm lại blog với Tailwind CSS (2023-01-31T09:08:58+09:00)](https://manhhomienbienthuy.github.io/2021/08/23/dap-di-lam-lai-blog-voi-tailwind-css.html)
-- [Lập trình desktop app với Electron (2023-01-31T09:08:58+09:00)](https://manhhomienbienthuy.github.io/2021/08/02/lap-trinh-desktop-app-voi-electron.html)
-- [Tại sao nên sử dụng ESLint cho dự án? (2023-01-31T09:08:58+09:00)](https://manhhomienbienthuy.github.io/2018/05/20/tai-sao-nen-su-dung-eslint-cho-du-an.html)
+- [Node.js thích hợp với những ứng dụng nào (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
+- [Chuyển đổi encoding tiếng Nhật trong Node.js (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2022/01/14/chuyen-doi-encoding-tieng-nhat-trong-nodejs.html)
+- [Hiểu về view port và view box trong SVG (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2021/09/02/hieu-ve-view-port-va-view-box-trong-svg.html)
+- [Lập trình desktop app với Electron (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2021/08/02/lap-trinh-desktop-app-voi-electron.html)
+- [Xử lý khi đường dẫn có ký tự tiếng Nhật trong OpenCV (Python) (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2021/07/30/xu-ly-khi-duong-dan-co-ky-tu-tieng-nhat-trong-opencv-python.html)
+- [Python: *args & **kwargs (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2019/09/20/python-args-kwargs.html)
+- [JavaScript: modules (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2019/08/19/javascript-modules.html)
+- [Elasticsearch: tổ chức dữ liệu (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2019/06/20/elasticsearch-to-chuc-du-lieu.html)
+- [Elasticsearch: Giới thiệu (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2019/05/20/elasticsearch-gioi-thieu.html)
+- [JavaScript: Popups (2023-02-01T10:57:01+09:00)](https://manhhomienbienthuy.github.io/2019/04/20/javascript-popups.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **2.87°C**, độ ẩm **46%**, cảm giác như **2.87°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **9.28°C**, độ ẩm **56%**, cảm giác như **7.85°C**.
 
-Nhiệt độ thấp nhất là **0.68°C** và cao nhất là **5.04°C**
+Nhiệt độ thấp nhất là **8.37°C** và cao nhất là **11.03°C**
 
 Hôm nay mặt trời mọc lúc **06:42** và lặn lúc **17:07**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:42** và lặn lúc **17:07**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 08:28:53 GMT+9 Thứ Tư, 1 tháng 2, 2023
+Cập nhận lần cuối lúc 11:11:32 GMT+9 Thứ Tư, 1 tháng 2, 2023
