@@ -31,7 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-02T09:25:05+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
+- [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-02T12:13:19+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Luyện thi AWS SAP C01 – triển khai và vận hành (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2021/01/20/luyen-thi-aws-sap-c01-trien-khai-va-van-hanh.html)
 - [Luyện thi AWS SAP C01 – Lưu trữ dữ liệu (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/09/05/luyen-thi-aws-sap-c01-luu-tru-du-lieu.html)
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **8.22°C**, độ ẩm **26%**, cảm giác như **6.29°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **8.45°C**, độ ẩm **26%**, cảm giác như **6.31°C**.
 
-Nhiệt độ thấp nhất là **7.82°C** và cao nhất là **8.99°C**
+Nhiệt độ thấp nhất là **7.82°C** và cao nhất là **9.43°C**
 
 Hôm nay mặt trời mọc lúc **06:41** và lặn lúc **17:08**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:41** và lặn lúc **17:08**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 11:54:32 GMT+9 Thứ Năm, 2 tháng 2, 2023
+Cập nhận lần cuối lúc 12:30:33 GMT+9 Thứ Năm, 2 tháng 2, 2023
