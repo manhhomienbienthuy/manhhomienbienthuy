@@ -31,8 +31,8 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-07T18:00:22+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-02T12:13:19+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Luyện thi AWS SAP C01 – triển khai và vận hành (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2021/01/20/luyen-thi-aws-sap-c01-trien-khai-va-van-hanh.html)
 - [Luyện thi AWS SAP C01 – Lưu trữ dữ liệu (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/09/05/luyen-thi-aws-sap-c01-luu-tru-du-lieu.html)
 - [Luyện thi AWS SAP C01 – Danh sách các dịch vụ của AWS (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/08/27/luyen-thi-aws-sap-c01-danh-sach-cac-dich-vu-cua-aws.html)
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **12.24°C**, độ ẩm **68%**, cảm giác như **11.3°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **12.29°C**, độ ẩm **69%**, cảm giác như **11.38°C**.
 
-Nhiệt độ thấp nhất là **11.68°C** và cao nhất là **13.92°C**
+Nhiệt độ thấp nhất là **11.66°C** và cao nhất là **13.88°C**
 
 Hôm nay mặt trời mọc lúc **06:37** và lặn lúc **17:13**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:37** và lặn lúc **17:13**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 17:34:47 GMT+9 Thứ Ba, 7 tháng 2, 2023
+Cập nhận lần cuối lúc 18:28:48 GMT+9 Thứ Ba, 7 tháng 2, 2023
