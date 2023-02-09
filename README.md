@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Hóa ra “Enter” và “Return” lại khác nhau (2023-02-09)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
 - [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-02)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
 - [Xử lý lỗi cho Express route (2023-01-24)](https://manhhomienbienthuy.github.io/2023/01/24/xu-ly-loi-cho-express-route.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-01-12)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
@@ -27,10 +28,10 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Podman vs Docker (2022-09-02)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
 - [Node.js thích hợp với những ứng dụng nào (2022-08-15)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Bash vs Z shell (2022-06-10)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
-- [PostgreSQL vs MySQL (2022-05-06)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Hóa ra “Enter” và “Return” lại khác nhau (2023-02-09T09:49:45+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-07T18:00:22+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-02T12:13:19+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
 - [Luyện thi AWS SAP C01 – triển khai và vận hành (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2021/01/20/luyen-thi-aws-sap-c01-trien-khai-va-van-hanh.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [JavaScript: modules (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2019/08/19/javascript-modules.html)
 - [Elasticsearch: tổ chức dữ liệu (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2019/06/20/elasticsearch-to-chuc-du-lieu.html)
 - [HTML5 web worker: hiểu biết cơ bản (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2018/11/20/html5-web-worker-hieu-biet-co-ban.html)
-- [Rò rỉ thông tin cá nhân (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2018/11/09/ro-ri-thong-tin-ca-nhan.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **5.46°C**, độ ẩm **45%**, cảm giác như **2.67°C**.
+Hiện tại, trời mây cụm, nhiệt độ **8.62°C**, độ ẩm **33%**, cảm giác như **7.39°C**.
 
-Nhiệt độ thấp nhất là **4.45°C** và cao nhất là **6.66°C**
+Nhiệt độ thấp nhất là **6.99°C** và cao nhất là **9.45°C**
 
 Hôm nay mặt trời mọc lúc **06:35** và lặn lúc **17:15**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:35** và lặn lúc **17:15**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 08:28:55 GMT+9 Thứ Năm, 9 tháng 2, 2023
+Cập nhận lần cuối lúc 10:58:36 GMT+9 Thứ Năm, 9 tháng 2, 2023
