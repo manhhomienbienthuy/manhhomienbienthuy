@@ -31,6 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Sử dụng bàn phím Windows trên macOS (2023-02-12T21:14:33+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Hóa ra “Enter” và “Return” lại khác nhau (2023-02-09T09:49:45+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-07T18:00:22+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-02T12:13:19+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Du lịch Quy Nhơn – chuyến đi bão táp (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/01/21/du-lich-quy-nhon-chuyen-di-bao-tap.html)
 - [JavaScript: modules (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2019/08/19/javascript-modules.html)
 - [Elasticsearch: tổ chức dữ liệu (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2019/06/20/elasticsearch-to-chuc-du-lieu.html)
-- [HTML5 web worker: hiểu biết cơ bản (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2018/11/20/html5-web-worker-hieu-biet-co-ban.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **13.45°C**, độ ẩm **73%**, cảm giác như **12.76°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **12.09°C**, độ ẩm **72%**, cảm giác như **11.23°C**.
 
-Nhiệt độ thấp nhất là **10.82°C** và cao nhất là **16.03°C**
+Nhiệt độ thấp nhất là **10.58°C** và cao nhất là **14.03°C**
 
 Hôm nay mặt trời mọc lúc **06:32** và lặn lúc **17:18**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:32** và lặn lúc **17:18**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 20:28:09 GMT+9 Chủ Nhật, 12 tháng 2, 2023
+Cập nhận lần cuối lúc 21:48:49 GMT+9 Chủ Nhật, 12 tháng 2, 2023
