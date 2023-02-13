@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [React + ES6 = không còn autobind (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/12/14/react-es6-khong-con-autobind.html)
-- [Vài lỗ hổng thường gặp và cách phòng chống trong Django (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/11/23/vai-lo-hong-thuong-gap-va-cach-phong-chong-trong-django.html)
-- [Giới thiệu về Source Maps (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/08/22/gioi-thieu-ve-source-maps.html)
-- [Giữ gulp tiếp tục chạy khi gặp lỗi với gulp-plumber (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/07/14/giu-gulp-tiep-tuc-chay-khi-gap-loi-voi-gulp-plumber.html)
-- [Cryptography: Untwisting Mersenne Twister (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/07/04/cryptography-untwisting-mersenne-twister.html)
-- [Sử dụng AMD & RequireJS để module hoá JavaScript (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/05/12/su-dung-amd-requirejs-de-module-hoa-javascript.html)
-- [Sử dụng Docker (và Docker Compose) cho dự án Django (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/04/10/su-dung-docker-va-docker-compose-cho-du-an-django.html)
-- [Hiểu và master từ khoá "this" của JavaScript (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/03/28/hieu-va-master-tu-khoa-this-cua-javascript.html)
-- [Đôi điều về coding style (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/03/18/doi-dieu-ve-coding-style.html)
-- [Python class decorator (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/03/08/python-class-decorator.html)
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-13T16:58:00+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
+- [Năm 2022 nhìn lại: một thời covid (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
+- [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
+- [Quản lý dependency cho Python (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
+- [Podman vs Docker (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
+- [Node.js thích hợp với những ứng dụng nào (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
+- [Bash vs Z shell (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
+- [PostgreSQL vs MySQL (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
+- [Node.js: Blocking & Non-blocking I/O (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
+- [Hiểu hơn JavaScript: Object, Prototype và Class (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,9 +104,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/10d@2x.png)
+![weather](https://openweathermap.org/img/wn/10n@2x.png)
 
-Hiện tại, trời mưa nhẹ, nhiệt độ **7.42°C**, độ ẩm **89%**, cảm giác như **6.9°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **7.09°C**, độ ẩm **86%**, cảm giác như **5.24°C**.
 
 Nhiệt độ thấp nhất là **6.38°C** và cao nhất là **8.03°C**
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **17:19**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 16:28:04 GMT+9 Thứ Hai, 13 tháng 2, 2023
+Cập nhận lần cuối lúc 17:37:18 GMT+9 Thứ Hai, 13 tháng 2, 2023
