@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Du lịch Quy Nhơn – chuyến đi bão táp (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2020/01/21/du-lich-quy-nhon-chuyen-di-bao-tap.html)
-- [Du lịch Phú Yên (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2019/01/28/du-lich-phu-yen.html)
-- [Trải nghiệm dịch vụ Bệnh viện phụ sản Hà Nội (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2017/11/07/trai-nghiem-dich-vu-benh-vien-phu-san-ha-noi.html)
-- [Du lịch cố đô Huế (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2017/04/04/du-lich-co-do-hue.html)
-- [Đi chơi Tam Đảo (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2017/01/13/di-choi-tam-dao.html)
-- [Sửa đèn nền bàn phím MacBook Pro (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2015/11/03/sua-den-nen-ban-phim-macbook-pro.html)
-- [Du lịch Phú Quốc (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2015/10/12/du-lich-phu-quoc.html)
-- [Du lịch Đà Nẵng (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2014/09/30/du-lich-da-nang.html)
-- [Học kỳ mới (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2013/04/13/hoc-ky-moi.html)
-- [Mùa đông xứ lạ (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2013/02/27/mua-dong-xu-la.html)
+- [React + ES6 = không còn autobind (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/12/14/react-es6-khong-con-autobind.html)
+- [Vài lỗ hổng thường gặp và cách phòng chống trong Django (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/11/23/vai-lo-hong-thuong-gap-va-cach-phong-chong-trong-django.html)
+- [Giới thiệu về Source Maps (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/08/22/gioi-thieu-ve-source-maps.html)
+- [Giữ gulp tiếp tục chạy khi gặp lỗi với gulp-plumber (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/07/14/giu-gulp-tiep-tuc-chay-khi-gap-loi-voi-gulp-plumber.html)
+- [Cryptography: Untwisting Mersenne Twister (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/07/04/cryptography-untwisting-mersenne-twister.html)
+- [Sử dụng AMD & RequireJS để module hoá JavaScript (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/05/12/su-dung-amd-requirejs-de-module-hoa-javascript.html)
+- [Sử dụng Docker (và Docker Compose) cho dự án Django (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/04/10/su-dung-docker-va-docker-compose-cho-du-an-django.html)
+- [Hiểu và master từ khoá "this" của JavaScript (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/03/28/hieu-va-master-tu-khoa-this-cua-javascript.html)
+- [Đôi điều về coding style (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/03/18/doi-dieu-ve-coding-style.html)
+- [Python class decorator (2023-02-13T14:23:47+09:00)](https://manhhomienbienthuy.github.io/2016/03/08/python-class-decorator.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,7 +106,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa nhẹ, nhiệt độ **7.58°C**, độ ẩm **88%**, cảm giác như **6.16°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **7.52°C**, độ ẩm **89%**, cảm giác như **7.02°C**.
 
 Nhiệt độ thấp nhất là **7.19°C** và cao nhất là **8.03°C**
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **17:19**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 14:29:29 GMT+9 Thứ Hai, 13 tháng 2, 2023
+Cập nhận lần cuối lúc 15:36:50 GMT+9 Thứ Hai, 13 tháng 2, 2023
