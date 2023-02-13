@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Sử dụng bàn phím Windows trên macOS (2023-02-12T21:14:33+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
-- [Hóa ra “Enter” và “Return” lại khác nhau (2023-02-09T09:49:45+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
+- [Hóa ra “Enter” và “Return” lại khác nhau (2023-02-13T10:53:02+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
+- [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-13T10:53:02+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
+- [Xử lý lỗi cho Express route (2023-02-13T10:53:02+09:00)](https://manhhomienbienthuy.github.io/2023/01/24/xu-ly-loi-cho-express-route.html)
+- [Sử dụng bàn phím Windows trên macOS (2023-02-13T10:53:02+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-07T18:00:22+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
-- [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-02T12:13:19+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
 - [Luyện thi AWS SAP C01 – triển khai và vận hành (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2021/01/20/luyen-thi-aws-sap-c01-trien-khai-va-van-hanh.html)
 - [Luyện thi AWS SAP C01 – Lưu trữ dữ liệu (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/09/05/luyen-thi-aws-sap-c01-luu-tru-du-lieu.html)
 - [Luyện thi AWS SAP C01 – Danh sách các dịch vụ của AWS (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/08/27/luyen-thi-aws-sap-c01-danh-sach-cac-dich-vu-cua-aws.html)
 - [Du lịch Quy Nhơn – chuyến đi bão táp (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/01/21/du-lich-quy-nhon-chuyen-di-bao-tap.html)
 - [JavaScript: modules (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2019/08/19/javascript-modules.html)
-- [Elasticsearch: tổ chức dữ liệu (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2019/06/20/elasticsearch-to-chuc-du-lieu.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/04d@2x.png)
+![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **9.08°C**, độ ẩm **80%**, cảm giác như **9.08°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **8.28°C**, độ ẩm **84%**, cảm giác như **7.88°C**.
 
-Nhiệt độ thấp nhất là **8.6°C** và cao nhất là **9.57°C**
+Nhiệt độ thấp nhất là **7.49°C** và cao nhất là **9.03°C**
 
 Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **17:19**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **17:19**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 08:28:31 GMT+9 Thứ Hai, 13 tháng 2, 2023
+Cập nhận lần cuối lúc 10:59:59 GMT+9 Thứ Hai, 13 tháng 2, 2023
