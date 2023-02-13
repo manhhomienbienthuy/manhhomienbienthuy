@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Một tuần vất vả (2023-02-13T11:43:48+09:00)](https://manhhomienbienthuy.github.io/2012/04/22/mot-tuan-vat-va.html)
+- [Những ngày đầu tiên trên đất Nhật (2023-02-13T11:43:48+09:00)](https://manhhomienbienthuy.github.io/2012/04/11/nhung-ngay-dau-tien-tren-dat-nhat.html)
+- [Trước lúc đi xa (2023-02-13T11:43:48+09:00)](https://manhhomienbienthuy.github.io/2012/03/17/truoc-luc-di-xa.html)
+- [Mùa đông lạnh giá (2023-02-13T11:43:48+09:00)](https://manhhomienbienthuy.github.io/2012/01/09/mua-dong-lanh-gia.html)
+- [Những ngày cuối thu (2023-02-13T11:33:08+09:00)](https://manhhomienbienthuy.github.io/2011/10/24/nhung-ngay-cuoi-thu.html)
+- [Thế giới vốn đầy nghịch lý (2023-02-13T11:33:08+09:00)](https://manhhomienbienthuy.github.io/2011/10/17/the-gioi-von-day-nghich-ly.html)
+- [Một mùa đông lại về (2023-02-13T11:33:08+09:00)](https://manhhomienbienthuy.github.io/2010/10/16/mot-mua-dong-lai-ve.html)
+- [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-13T11:01:07+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
 - [Hóa ra “Enter” và “Return” lại khác nhau (2023-02-13T10:53:02+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
-- [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-13T10:53:02+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
 - [Xử lý lỗi cho Express route (2023-02-13T10:53:02+09:00)](https://manhhomienbienthuy.github.io/2023/01/24/xu-ly-loi-cho-express-route.html)
-- [Sử dụng bàn phím Windows trên macOS (2023-02-13T10:53:02+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-07T18:00:22+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
-- [Luyện thi AWS SAP C01 – triển khai và vận hành (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2021/01/20/luyen-thi-aws-sap-c01-trien-khai-va-van-hanh.html)
-- [Luyện thi AWS SAP C01 – Lưu trữ dữ liệu (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/09/05/luyen-thi-aws-sap-c01-luu-tru-du-lieu.html)
-- [Luyện thi AWS SAP C01 – Danh sách các dịch vụ của AWS (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/08/27/luyen-thi-aws-sap-c01-danh-sach-cac-dich-vu-cua-aws.html)
-- [Du lịch Quy Nhơn – chuyến đi bão táp (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2020/01/21/du-lich-quy-nhon-chuyen-di-bao-tap.html)
-- [JavaScript: modules (2023-02-01T11:15:36+09:00)](https://manhhomienbienthuy.github.io/2019/08/19/javascript-modules.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa nhẹ, nhiệt độ **8.28°C**, độ ẩm **84%**, cảm giác như **7.88°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **7.83°C**, độ ẩm **87%**, cảm giác như **6.46°C**.
 
-Nhiệt độ thấp nhất là **7.49°C** và cao nhất là **9.03°C**
+Nhiệt độ thấp nhất là **7.19°C** và cao nhất là **9.03°C**
 
 Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **17:19**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **17:19**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 10:59:59 GMT+9 Thứ Hai, 13 tháng 2, 2023
+Cập nhận lần cuối lúc 11:57:42 GMT+9 Thứ Hai, 13 tháng 2, 2023
