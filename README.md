@@ -31,7 +31,8 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-13T16:58:00+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
+- [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-13T20:40:50+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-13T20:39:16+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Năm 2022 nhìn lại: một thời covid (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 - [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
 - [Quản lý dependency cho Python (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Bash vs Z shell (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [PostgreSQL vs MySQL (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
 - [Node.js: Blocking & Non-blocking I/O (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
-- [Hiểu hơn JavaScript: Object, Prototype và Class (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/10n@2x.png)
+![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Hiện tại, trời mưa nhẹ, nhiệt độ **6.5°C**, độ ẩm **88%**, cảm giác như **6.5°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **6.27°C**, độ ẩm **85%**, cảm giác như **5.6°C**.
 
-Nhiệt độ thấp nhất là **6.1°C** và cao nhất là **7.26°C**
+Nhiệt độ thấp nhất là **5.55°C** và cao nhất là **7.03°C**
 
 Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **17:19**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **17:19**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 20:28:00 GMT+9 Thứ Hai, 13 tháng 2, 2023
+Cập nhận lần cuối lúc 21:52:48 GMT+9 Thứ Hai, 13 tháng 2, 2023
