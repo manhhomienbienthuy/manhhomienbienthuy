@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Một tuần vất vả (2023-02-13T11:43:48+09:00)](https://manhhomienbienthuy.github.io/2012/04/22/mot-tuan-vat-va.html)
-- [Những ngày đầu tiên trên đất Nhật (2023-02-13T11:43:48+09:00)](https://manhhomienbienthuy.github.io/2012/04/11/nhung-ngay-dau-tien-tren-dat-nhat.html)
-- [Trước lúc đi xa (2023-02-13T11:43:48+09:00)](https://manhhomienbienthuy.github.io/2012/03/17/truoc-luc-di-xa.html)
-- [Mùa đông lạnh giá (2023-02-13T11:43:48+09:00)](https://manhhomienbienthuy.github.io/2012/01/09/mua-dong-lanh-gia.html)
-- [Những ngày cuối thu (2023-02-13T11:33:08+09:00)](https://manhhomienbienthuy.github.io/2011/10/24/nhung-ngay-cuoi-thu.html)
-- [Thế giới vốn đầy nghịch lý (2023-02-13T11:33:08+09:00)](https://manhhomienbienthuy.github.io/2011/10/17/the-gioi-von-day-nghich-ly.html)
-- [Một mùa đông lại về (2023-02-13T11:33:08+09:00)](https://manhhomienbienthuy.github.io/2010/10/16/mot-mua-dong-lai-ve.html)
-- [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-13T11:01:07+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
-- [Hóa ra “Enter” và “Return” lại khác nhau (2023-02-13T10:53:02+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
-- [Xử lý lỗi cho Express route (2023-02-13T10:53:02+09:00)](https://manhhomienbienthuy.github.io/2023/01/24/xu-ly-loi-cho-express-route.html)
+- [Du lịch Quy Nhơn – chuyến đi bão táp (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2020/01/21/du-lich-quy-nhon-chuyen-di-bao-tap.html)
+- [Du lịch Phú Yên (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2019/01/28/du-lich-phu-yen.html)
+- [Trải nghiệm dịch vụ Bệnh viện phụ sản Hà Nội (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2017/11/07/trai-nghiem-dich-vu-benh-vien-phu-san-ha-noi.html)
+- [Du lịch cố đô Huế (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2017/04/04/du-lich-co-do-hue.html)
+- [Đi chơi Tam Đảo (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2017/01/13/di-choi-tam-dao.html)
+- [Sửa đèn nền bàn phím MacBook Pro (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2015/11/03/sua-den-nen-ban-phim-macbook-pro.html)
+- [Du lịch Phú Quốc (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2015/10/12/du-lich-phu-quoc.html)
+- [Du lịch Đà Nẵng (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2014/09/30/du-lich-da-nang.html)
+- [Học kỳ mới (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2013/04/13/hoc-ky-moi.html)
+- [Mùa đông xứ lạ (2023-02-13T11:55:57+09:00)](https://manhhomienbienthuy.github.io/2013/02/27/mua-dong-xu-la.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,7 +106,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa nhẹ, nhiệt độ **7.59°C**, độ ẩm **87%**, cảm giác như **6.18°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **7.52°C**, độ ẩm **88%**, cảm giác như **5.75°C**.
 
 Nhiệt độ thấp nhất là **7.19°C** và cao nhất là **8.03°C**
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **17:19**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 12:35:54 GMT+9 Thứ Hai, 13 tháng 2, 2023
+Cập nhận lần cuối lúc 13:36:14 GMT+9 Thứ Hai, 13 tháng 2, 2023
