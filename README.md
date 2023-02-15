@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Podman vs Docker (2023-02-15T09:25:04+09:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
+- [Bash vs Z shell (2023-02-15T09:25:04+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
+- [PostgreSQL vs MySQL (2023-02-15T09:25:04+09:00)](https://manhhomienbienthuy.github.io/2022/05/06/postgresql-vs-mysql.html)
+- [So sánh nhỏ: TypeScript vs JavaScript (2023-02-15T09:25:04+09:00)](https://manhhomienbienthuy.github.io/2022/03/01/so-sanh-nho-typescript-vs-javascript.html)
 - [Hóa ra “Enter” và “Return” lại khác nhau (2023-02-14T09:02:37+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
 - [Các phương pháp tracking online (2023-02-14T09:02:37+09:00)](https://manhhomienbienthuy.github.io/2018/10/26/cac-phuong-phap-tracking-online.html)
 - [Lần đầu du lịch nước ngoài: Singapore (2023-02-14T09:02:37+09:00)](https://manhhomienbienthuy.github.io/2018/10/08/lan-dau-du-lich-nuoc-ngoai-singapore.html)
 - [Đôi điều về coding style (2023-02-14T09:02:37+09:00)](https://manhhomienbienthuy.github.io/2016/03/18/doi-dieu-ve-coding-style.html)
 - [Tìm hiểu Python decorators (2023-02-14T09:02:37+09:00)](https://manhhomienbienthuy.github.io/2015/12/22/tim-hieu-python-decorators.html)
 - [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-13T20:40:50+09:00)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-02-13T20:39:16+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
-- [Năm 2022 nhìn lại: một thời covid (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
-- [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
-- [Quản lý dependency cho Python (2023-02-13T16:37:06+09:00)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **2.9°C**, độ ẩm **37%**, cảm giác như **-1.47°C**.
+Hiện tại, trời mây cụm, nhiệt độ **5.43°C**, độ ẩm **30%**, cảm giác như **2.38°C**.
 
-Nhiệt độ thấp nhất là **2.23°C** và cao nhất là **3.88°C**
+Nhiệt độ thấp nhất là **3.99°C** và cao nhất là **6.68°C**
 
 Hôm nay mặt trời mọc lúc **06:29** và lặn lúc **17:21**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:29** và lặn lúc **17:21**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc 08:29:27 GMT+9 Thứ Tư, 15 tháng 2, 2023
+Cập nhận lần cuối lúc 11:01:15 GMT+9 Thứ Tư, 15 tháng 2, 2023
