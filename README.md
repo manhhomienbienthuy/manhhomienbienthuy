@@ -31,8 +31,8 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Sử dụng bàn phím Windows trên macOS (2023-02-20T09:27:08+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Cải thiện SEO cho ứng dụng React (2023-02-17T18:08:22+09:00)](https://manhhomienbienthuy.github.io/2023/02/17/cai-thien-seo-cho-ung-dung-react.html)
-- [Sử dụng bàn phím Windows trên macOS (2023-02-16T21:48:15+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Hóa ra “Enter” và “Return” lại khác nhau (2023-02-16T10:16:11+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
 - [Node.js thích hợp với những ứng dụng nào (2023-02-16T10:16:11+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Bash vs Z shell (2023-02-16T10:16:11+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/03d@2x.png)
+![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây rải rác, nhiệt độ **8.67°C**, độ ẩm **39%**, cảm giác như **8.67°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **11.34°C**, độ ẩm **34%**, cảm giác như **9.42°C**.
 
-Nhiệt độ thấp nhất là **7.49°C** và cao nhất là **9.99°C**
+Nhiệt độ thấp nhất là **10.61°C** và cao nhất là **11.79°C**
 
 Hôm nay mặt trời mọc lúc **06:23** và lặn lúc **17:26**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:23** và lặn lúc **17:26**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 08:28:41 GMT+9 Thứ Hai, 20 tháng 2, 2023
+Cập nhận lần cuối lúc lúc 11:01:20 GMT+9 Thứ Hai, 20 tháng 2, 2023
