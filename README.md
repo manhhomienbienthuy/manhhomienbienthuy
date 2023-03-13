@@ -31,7 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Những thông số quan trọng của chuột máy tính (2023-03-13T17:27:12+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
+- [Những thông số quan trọng của chuột máy tính (2023-03-13T19:05:57+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-03-01T11:40:02+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
 - [Hóa ra “Enter” và “Return” lại khác nhau (2023-03-01T11:40:02+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
 - [Bash vs Z shell (2023-03-01T11:40:02+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **14.6°C**, độ ẩm **73%**, cảm giác như **14.02°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **12.91°C**, độ ẩm **64%**, cảm giác như **11.93°C**.
 
-Nhiệt độ thấp nhất là **12.49°C** và cao nhất là **16.66°C**
+Nhiệt độ thấp nhất là **11.24°C** và cao nhất là **15.03°C**
 
 Hôm nay mặt trời mọc lúc **05:56** và lặn lúc **17:45**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **05:56** và lặn lúc **17:45**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 18:31:59 GMT+9 Thứ Hai, 13 tháng 3, 2023
+Cập nhận lần cuối lúc lúc 19:33:46 GMT+9 Thứ Hai, 13 tháng 3, 2023
