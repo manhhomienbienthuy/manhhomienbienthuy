@@ -31,6 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-03-20T10:21:41+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Những thông số quan trọng của chuột máy tính (2023-03-13T19:05:57+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-03-01T11:40:02+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
 - [Hóa ra “Enter” và “Return” lại khác nhau (2023-03-01T11:40:02+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Node.js thích hợp với những ứng dụng nào (2023-02-16T10:16:11+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Node.js: Blocking & Non-blocking I/O (2023-02-16T10:16:11+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 - [So sánh nhỏ: TypeScript vs JavaScript (2023-02-16T10:16:11+09:00)](https://manhhomienbienthuy.github.io/2022/03/01/so-sanh-nho-typescript-vs-javascript.html)
-- [Chuyển đổi encoding tiếng Nhật trong Node.js (2023-02-16T10:16:11+09:00)](https://manhhomienbienthuy.github.io/2022/01/14/chuyen-doi-encoding-tieng-nhat-trong-nodejs.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/04d@2x.png)
+![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **11.06°C**, độ ẩm **54%**, cảm giác như **9.63°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **15.86°C**, độ ẩm **47%**, cảm giác như **14.73°C**.
 
-Nhiệt độ thấp nhất là **8.98°C** và cao nhất là **13.32°C**
+Nhiệt độ thấp nhất là **12.83°C** và cao nhất là **17.21°C**
 
 Hôm nay mặt trời mọc lúc **05:46** và lặn lúc **17:51**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **05:46** và lặn lúc **17:51**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 08:28:02 GMT+9 Thứ Hai, 20 tháng 3, 2023
+Cập nhận lần cuối lúc lúc 10:54:20 GMT+9 Thứ Hai, 20 tháng 3, 2023
