@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Lập trình viên và chuyện gõ phím (2023-04-03)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 - [Những thông số quan trọng của chuột máy tính (2023-03-13)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-03-01)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
 - [Cải thiện SEO cho ứng dụng React (2023-02-17)](https://manhhomienbienthuy.github.io/2023/02/17/cai-thien-seo-cho-ung-dung-react.html)
@@ -27,10 +28,10 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Sử dụng bàn phím Windows trên macOS (2023-01-12)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Năm 2022 nhìn lại: một thời covid (2022-12-28)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 - [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2022-11-04)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
-- [Quản lý dependency cho Python (2022-10-03)](https://manhhomienbienthuy.github.io/2022/10/03/quan-ly-dependency-cho-python.html)
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Lập trình viên và chuyện gõ phím (2023-04-03T12:04:47+09:00)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 - [Những thông số quan trọng của chuột máy tính (2023-03-20T21:03:19+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-03-20T10:21:41+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Docker trên macOS không ngon như trên Linux (2023-03-01T11:40:02+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Cải thiện SEO cho ứng dụng React (2023-02-17T18:08:22+09:00)](https://manhhomienbienthuy.github.io/2023/02/17/cai-thien-seo-cho-ung-dung-react.html)
 - [Node.js thích hợp với những ứng dụng nào (2023-02-16T10:16:11+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Node.js: Blocking & Non-blocking I/O (2023-02-16T10:16:11+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
-- [So sánh nhỏ: TypeScript vs JavaScript (2023-02-16T10:16:11+09:00)](https://manhhomienbienthuy.github.io/2022/03/01/so-sanh-nho-typescript-vs-javascript.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **16.72°C**, độ ẩm **41%**, cảm giác như **15.52°C**.
+Hiện tại, trời mây cụm, nhiệt độ **16.17°C**, độ ẩm **36%**, cảm giác như **14.78°C**.
 
-Nhiệt độ thấp nhất là **14.99°C** và cao nhất là **17.23°C**
+Nhiệt độ thấp nhất là **14.99°C** và cao nhất là **17.9°C**
 
 Hôm nay mặt trời mọc lúc **05:25** và lặn lúc **18:03**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **05:25** và lặn lúc **18:03**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 11:38:24 GMT+9 Thứ Hai, 3 tháng 4, 2023
+Cập nhận lần cuối lúc lúc 12:28:01 GMT+9 Thứ Hai, 3 tháng 4, 2023
