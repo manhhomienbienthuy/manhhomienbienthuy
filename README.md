@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Lịch sử của Ctrl+C, Ctrl+V, Ctrl+X, và Ctrl+Z (2023-04-14T11:04:28+09:00)](https://manhhomienbienthuy.github.io/2023/04/06/lich-su-cua-ctrlc-ctrlv-ctrlx-va-ctrlz.html)
-- [Thiết lập Visual Studio Code để viết Markdown vui vẻ hơn (2023-04-03T17:46:25+09:00)](https://manhhomienbienthuy.github.io/2022/11/04/thiet-lap-visual-studio-code-de-viet-markdown-vui-ve-hon.html)
-- [Lập trình viên và chuyện gõ phím (2023-04-03T12:04:47+09:00)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
-- [Những thông số quan trọng của chuột máy tính (2023-03-20T21:03:19+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-03-20T10:21:41+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
-- [Docker trên macOS không ngon như trên Linux (2023-03-01T11:40:02+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
-- [Hóa ra “Enter” và “Return” lại khác nhau (2023-03-01T11:40:02+09:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
-- [Bash vs Z shell (2023-03-01T11:40:02+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
-- [Sử dụng bàn phím Windows trên macOS (2023-02-20T09:27:08+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
-- [Cải thiện SEO cho ứng dụng React (2023-02-17T18:08:22+09:00)](https://manhhomienbienthuy.github.io/2023/02/17/cai-thien-seo-cho-ung-dung-react.html)
+- [Những thông số quan trọng của chuột máy tính (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
+- [Docker trên macOS không ngon như trên Linux (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
+- [Năm 2022 nhìn lại: một thời covid (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
+- [Podman vs Docker (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
+- [Node.js thích hợp với những ứng dụng nào (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
+- [Node.js: Blocking & Non-blocking I/O (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
+- [Hiểu hơn JavaScript: Object, Prototype và Class (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
+- [Đừng dùng last n versions với browserslist (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
+- [Tự động build blog (dùng Pelican) với GitHub Actions (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/02/10/tu-dong-build-blog-dung-pelican-voi-github-actions.html)
+- [Thế giới rộng lớn của JavaScript (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **21.64°C**, độ ẩm **41%**, cảm giác như **20.93°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **21.64°C**, độ ẩm **42%**, cảm giác như **20.96°C**.
 
-Nhiệt độ thấp nhất là **19.71°C** và cao nhất là **22.35°C**
+Nhiệt độ thấp nhất là **20.61°C** và cao nhất là **22.21°C**
 
 Hôm nay mặt trời mọc lúc **05:10** và lặn lúc **18:12**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **05:10** và lặn lúc **18:12**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 11:39:40 GMT+9 Thứ Sáu, 14 tháng 4, 2023
+Cập nhận lần cuối lúc lúc 12:28:03 GMT+9 Thứ Sáu, 14 tháng 4, 2023
