@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-19)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 - [Lịch sử của Ctrl+C, Ctrl+V, Ctrl+X, và Ctrl+Z (2023-04-06)](https://manhhomienbienthuy.github.io/2023/04/06/lich-su-cua-ctrlc-ctrlv-ctrlx-va-ctrlz.html)
 - [Lập trình viên và chuyện gõ phím (2023-04-03)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 - [Những thông số quan trọng của chuột máy tính (2023-03-13)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
@@ -27,10 +28,10 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-02)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
 - [Xử lý lỗi cho Express route (2023-01-24)](https://manhhomienbienthuy.github.io/2023/01/24/xu-ly-loi-cho-express-route.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-01-12)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
-- [Năm 2022 nhìn lại: một thời covid (2022-12-28)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-19T09:24:01+09:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 - [Những thông số quan trọng của chuột máy tính (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
 - [Năm 2022 nhìn lại: một thời covid (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Hiểu hơn JavaScript: Object, Prototype và Class (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
 - [Đừng dùng last n versions với browserslist (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
 - [Tự động build blog (dùng Pelican) với GitHub Actions (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/02/10/tu-dong-build-blog-dung-pelican-voi-github-actions.html)
-- [Thế giới rộng lớn của JavaScript (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/01d@2x.png)
+![weather](https://openweathermap.org/img/wn/02d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **16.74°C**, độ ẩm **64%**, cảm giác như **16.14°C**.
+Hiện tại, trời mây thưa, nhiệt độ **21.84°C**, độ ẩm **51%**, cảm giác như **21.41°C**.
 
-Nhiệt độ thấp nhất là **15.61°C** và cao nhất là **17.35°C**
+Nhiệt độ thấp nhất là **17.83°C** và cao nhất là **24.57°C**
 
 Hôm nay mặt trời mọc lúc **05:04** và lặn lúc **18:16**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **05:04** và lặn lúc **18:16**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 08:28:02 GMT+9 Thứ Tư, 19 tháng 4, 2023
+Cập nhận lần cuối lúc lúc 10:46:17 GMT+9 Thứ Tư, 19 tháng 4, 2023
