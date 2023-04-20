@@ -31,7 +31,8 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-19T09:24:01+09:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
+- [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-20T16:54:24+09:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
+- [Sử dụng bàn phím Windows trên macOS (2023-04-20T16:54:24+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Những thông số quan trọng của chuột máy tính (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
 - [Năm 2022 nhìn lại: một thời covid (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Node.js: Blocking & Non-blocking I/O (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 - [Hiểu hơn JavaScript: Object, Prototype và Class (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
 - [Đừng dùng last n versions với browserslist (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
-- [Tự động build blog (dùng Pelican) với GitHub Actions (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/02/10/tu-dong-build-blog-dung-pelican-voi-github-actions.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/03d@2x.png)
+![weather](https://openweathermap.org/img/wn/02d@2x.png)
 
-Hiện tại, trời mây rải rác, nhiệt độ **24.24°C**, độ ẩm **57%**, cảm giác như **24.21°C**.
+Hiện tại, trời mây thưa, nhiệt độ **23.12°C**, độ ẩm **66%**, cảm giác như **23.21°C**.
 
-Nhiệt độ thấp nhất là **21.72°C** và cao nhất là **26.12°C**
+Nhiệt độ thấp nhất là **20.61°C** và cao nhất là **24.43°C**
 
 Hôm nay mặt trời mọc lúc **05:02** và lặn lúc **18:17**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **05:02** và lặn lúc **18:17**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 16:28:06 GMT+9 Thứ Năm, 20 tháng 4, 2023
+Cập nhận lần cuối lúc lúc 17:31:22 GMT+9 Thứ Năm, 20 tháng 4, 2023
