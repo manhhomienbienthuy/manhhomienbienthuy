@@ -31,9 +31,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Những thông số quan trọng của chuột máy tính (2023-04-24T09:50:07+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-20T16:54:24+09:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-04-20T16:54:24+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
-- [Những thông số quan trọng của chuột máy tính (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
 - [Năm 2022 nhìn lại: một thời covid (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 - [Podman vs Docker (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **13.83°C**, độ ẩm **28%**, cảm giác như **12°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **15.2°C**, độ ẩm **25%**, cảm giác như **13.43°C**.
 
-Nhiệt độ thấp nhất là **11.38°C** và cao nhất là **15.03°C**
+Nhiệt độ thấp nhất là **12.99°C** và cao nhất là **17.34°C**
 
 Hôm nay mặt trời mọc lúc **04:57** và lặn lúc **18:20**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:57** và lặn lúc **18:20**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 08:28:12 GMT+9 Thứ Hai, 24 tháng 4, 2023
+Cập nhận lần cuối lúc lúc 10:46:47 GMT+9 Thứ Hai, 24 tháng 4, 2023
