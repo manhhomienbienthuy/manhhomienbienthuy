@@ -31,6 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Bash vs Z shell (2023-04-25T12:18:38+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [Những thông số quan trọng của chuột máy tính (2023-04-24T09:50:07+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-20T16:54:24+09:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-04-20T16:54:24+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Node.js thích hợp với những ứng dụng nào (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Node.js: Blocking & Non-blocking I/O (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 - [Hiểu hơn JavaScript: Object, Prototype và Class (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
-- [Đừng dùng last n versions với browserslist (2023-04-14T11:46:20+09:00)](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/03d@2x.png)
 
-Hiện tại, trời mây rải rác, nhiệt độ **18.74°C**, độ ẩm **39%**, cảm giác như **17.69°C**.
+Hiện tại, trời mây rải rác, nhiệt độ **17.77°C**, độ ẩm **46%**, cảm giác như **16.8°C**.
 
-Nhiệt độ thấp nhất là **16.38°C** và cao nhất là **20.01°C**
+Nhiệt độ thấp nhất là **16.38°C** và cao nhất là **18.46°C**
 
 Hôm nay mặt trời mọc lúc **04:56** và lặn lúc **18:21**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:56** và lặn lúc **18:21**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 11:41:46 GMT+9 Thứ Ba, 25 tháng 4, 2023
+Cập nhận lần cuối lúc lúc 12:28:17 GMT+9 Thứ Ba, 25 tháng 4, 2023
