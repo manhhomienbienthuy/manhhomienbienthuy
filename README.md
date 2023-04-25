@@ -31,7 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Bash vs Z shell (2023-04-25T12:18:38+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
+- [Bash vs Z shell (2023-04-25T18:56:53+09:00)](https://manhhomienbienthuy.github.io/2022/06/10/bash-vs-z-shell.html)
 - [Những thông số quan trọng của chuột máy tính (2023-04-24T09:50:07+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-20T16:54:24+09:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-04-20T16:54:24+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **15.98°C**, độ ẩm **61%**, cảm giác như **15.23°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **16.01°C**, độ ẩm **59%**, cảm giác như **15.21°C**.
 
-Nhiệt độ thấp nhất là **15.02°C** và cao nhất là **16.49°C**
+Nhiệt độ thấp nhất là **13.82°C** và cao nhất là **17.25°C**
 
 Hôm nay mặt trời mọc lúc **04:56** và lặn lúc **18:21**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:56** và lặn lúc **18:21**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 18:28:24 GMT+9 Thứ Ba, 25 tháng 4, 2023
+Cập nhận lần cuối lúc lúc 19:31:04 GMT+9 Thứ Ba, 25 tháng 4, 2023
