@@ -31,7 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-05-08T12:38:31+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-05-09T09:11:48+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2023-05-01T14:44:02+09:00)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
 - [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 - [Những thông số quan trọng của chuột máy tính (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **15.27°C**, độ ẩm **43%**, cảm giác như **13.98°C**.
+Hiện tại, trời mây cụm, nhiệt độ **18.21°C**, độ ẩm **35%**, cảm giác như **17°C**.
 
-Nhiệt độ thấp nhất là **13.6°C** và cao nhất là **16.23°C**
+Nhiệt độ thấp nhất là **15.61°C** và cao nhất là **20.55°C**
 
 Hôm nay mặt trời mọc lúc **04:41** và lặn lúc **18:33**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:41** và lặn lúc **18:33**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 08:28:03 GMT+9 Thứ Ba, 9 tháng 5, 2023
+Cập nhận lần cuối lúc lúc 10:45:16 GMT+9 Thứ Ba, 9 tháng 5, 2023
