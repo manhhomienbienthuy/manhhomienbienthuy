@@ -31,8 +31,8 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết mới được chỉnh sửa lại
 
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-05-15T12:43:02+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2023-05-12T09:13:29+09:00)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-05-09T09:11:48+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 - [Những thông số quan trọng của chuột máy tính (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa nhẹ, nhiệt độ **18.21°C**, độ ẩm **85%**, cảm giác như **18.31°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **18.63°C**, độ ẩm **83%**, cảm giác như **18.72°C**.
 
-Nhiệt độ thấp nhất là **17.6°C** và cao nhất là **18.46°C**
+Nhiệt độ thấp nhất là **18.16°C** và cao nhất là **19.03°C**
 
 Hôm nay mặt trời mọc lúc **04:36** và lặn lúc **18:38**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:36** và lặn lúc **18:38**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 12:28:11 GMT+9 Thứ Hai, 15 tháng 5, 2023
+Cập nhận lần cuối lúc lúc 13:30:11 GMT+9 Thứ Hai, 15 tháng 5, 2023
