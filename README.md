@@ -29,18 +29,18 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Hóa ra “Enter” và “Return” lại khác nhau (2023-02-09)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
 - [Giới thiệu Deno – một lựa chọn thay thế cho Node.js (2023-02-02)](https://manhhomienbienthuy.github.io/2023/02/02/gioi-thieu-deno-mot-lua-chon-thay-the-cho-nodejs.html)
 
-## Bài viết mới được chỉnh sửa lại
+## Bài viết được chỉnh sửa gần đây
 
-- [Dấu ngoặc nhọn trong shell (2023-05-16T13:51:27+09:00)](https://manhhomienbienthuy.github.io/2023/05/16/dau-ngoac-nhon-trong-shell.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-05-15T12:43:02+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
-- [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2023-05-12T09:13:29+09:00)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
-- [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
-- [Những thông số quan trọng của chuột máy tính (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
-- [Docker trên macOS không ngon như trên Linux (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
 - [Năm 2022 nhìn lại: một thời covid (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 - [Podman vs Docker (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
 - [Node.js thích hợp với những ứng dụng nào (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Node.js: Blocking & Non-blocking I/O (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
+- [Hiểu hơn JavaScript: Object, Prototype và Class (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
+- [Đừng dùng last n versions với browserslist (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
+- [Tự động build blog (dùng Pelican) với GitHub Actions (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/02/10/tu-dong-build-blog-dung-pelican-voi-github-actions.html)
+- [Thế giới rộng lớn của JavaScript (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
+- [Hiểu về view port và view box trong SVG (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2021/09/02/hieu-ve-view-port-va-view-box-trong-svg.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **28.44°C**, độ ẩm **55%**, cảm giác như **29.51°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **27.69°C**, độ ẩm **53%**, cảm giác như **28.36°C**.
 
-Nhiệt độ thấp nhất là **25.61°C** và cao nhất là **28.88°C**
+Nhiệt độ thấp nhất là **25.61°C** và cao nhất là **28.19°C**
 
 Hôm nay mặt trời mọc lúc **04:31** và lặn lúc **18:44**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:31** và lặn lúc **18:44**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 13:30:11 GMT+9 Thứ Hai, 22 tháng 5, 2023
+Cập nhận lần cuối lúc lúc 14:19:30 GMT+9 Thứ Hai, 22 tháng 5, 2023
