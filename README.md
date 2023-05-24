@@ -31,7 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết được chỉnh sửa gần đây
 
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-05-23T21:49:09+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-05-23T17:41:25+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Năm 2022 nhìn lại: một thời covid (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 - [Podman vs Docker (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
 - [Node.js thích hợp với những ứng dụng nào (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **21.42°C**, độ ẩm **38%**, cảm giác như **20.61°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **22.66°C**, độ ẩm **35%**, cảm giác như **21.9°C**.
 
-Nhiệt độ thấp nhất là **19.99°C** và cao nhất là **22.9°C**
+Nhiệt độ thấp nhất là **21.03°C** và cao nhất là **24.02°C**
 
 Hôm nay mặt trời mọc lúc **04:30** và lặn lúc **18:45**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:30** và lặn lúc **18:45**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 10:50:00 GMT+9 Thứ Tư, 24 tháng 5, 2023
+Cập nhận lần cuối lúc lúc 11:43:35 GMT+9 Thứ Tư, 24 tháng 5, 2023
