@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Phần mềm chất lượng đến từ môi trường làm việc (2023-06-20)](https://manhhomienbienthuy.github.io/2023/06/20/phan-mem-chat-luong-den-tu-moi-truong-lam-viec.html)
 - [Hiểu hơn về React: React Fiber (2023-06-13)](https://manhhomienbienthuy.github.io/2023/06/13/hieu-hon-ve-react-react-fiber.html)
 - [Mấy chục triệu lần bấm (hoặc click) là bao lâu? (2023-05-30)](https://manhhomienbienthuy.github.io/2023/05/30/may-chuc-trieu-lan-bam-hoac-click-la-bao-lau.html)
 - [Dấu ngoặc nhọn trong shell (2023-05-16)](https://manhhomienbienthuy.github.io/2023/05/16/dau-ngoac-nhon-trong-shell.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Lập trình viên và chuyện gõ phím (2023-04-03)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 - [Những thông số quan trọng của chuột máy tính (2023-03-13)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-03-01)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
-- [Cải thiện SEO cho ứng dụng React (2023-02-17)](https://manhhomienbienthuy.github.io/2023/02/17/cai-thien-seo-cho-ung-dung-react.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **26.93°C**, độ ẩm **51%**, cảm giác như **27.41°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **26.6°C**, độ ẩm **54%**, cảm giác như **26.6°C**.
 
-Nhiệt độ thấp nhất là **24.99°C** và cao nhất là **28.46°C**
+Nhiệt độ thấp nhất là **24.82°C** và cao nhất là **27.79°C**
 
 Hôm nay mặt trời mọc lúc **04:25** và lặn lúc **19:00**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:25** và lặn lúc **19:00**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 14:28:51 GMT+9 Thứ Ba, 20 tháng 6, 2023
+Cập nhận lần cuối lúc lúc 15:32:10 GMT+9 Thứ Ba, 20 tháng 6, 2023
