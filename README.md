@@ -31,6 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [Sử dụng bàn phím Windows trên macOS (2023-06-20T16:31:07+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-06-06T15:57:01+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Năm 2022 nhìn lại: một thời covid (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 - [Podman vs Docker (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Đừng dùng last n versions với browserslist (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
 - [Tự động build blog (dùng Pelican) với GitHub Actions (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/02/10/tu-dong-build-blog-dung-pelican-voi-github-actions.html)
 - [Thế giới rộng lớn của JavaScript (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/02/01/the-gioi-rong-lon-cua-javascript.html)
-- [Hiểu về view port và view box trong SVG (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2021/09/02/hieu-ve-view-port-va-view-box-trong-svg.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **26.38°C**, độ ẩm **56%**, cảm giác như **26.38°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **26.31°C**, độ ẩm **56%**, cảm giác như **26.31°C**.
 
-Nhiệt độ thấp nhất là **24.99°C** và cao nhất là **27.19°C**
+Nhiệt độ thấp nhất là **24.27°C** và cao nhất là **26.8°C**
 
 Hôm nay mặt trời mọc lúc **04:25** và lặn lúc **19:00**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:25** và lặn lúc **19:00**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 16:28:07 GMT+9 Thứ Ba, 20 tháng 6, 2023
+Cập nhận lần cuối lúc lúc 17:30:19 GMT+9 Thứ Ba, 20 tháng 6, 2023
