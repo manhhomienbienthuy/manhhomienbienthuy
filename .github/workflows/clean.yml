@@ -7,7 +7,7 @@ jobs:
   cleanup:
     runs-on: ubuntu-latest
     steps:
-      - run: gh api repos/$REPO/actions/runs --paginate -q ".workflow_runs[] | select(.created_at < \"$(date -u -d '-1 hour' +%Y-%m-%dT%H:%M:%SZ)\") | (.id)" | xargs -I % gh api repos/$REPO/actions/runs/% -X DELETE > /dev/null
+      - run: gh api repos/$REPO/actions/runs -q ".workflow_runs[] | select(.status == \"completed\") | (.id)" | xargs -I % gh api repos/$REPO/actions/runs/% -X DELETE > /dev/null
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
