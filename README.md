@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/04d@2x.png)
+![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **31.13°C**, độ ẩm **63%**, cảm giác như **35.91°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **30.1°C**, độ ẩm **67%**, cảm giác như **34.56°C**.
 
-Nhiệt độ thấp nhất là **30.03°C** và cao nhất là **31.79°C**
+Nhiệt độ thấp nhất là **28.99°C** và cao nhất là **30.68°C**
 
 Hôm nay mặt trời mọc lúc **04:35** và lặn lúc **18:58**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:35** và lặn lúc **18:58**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 18:28:06 GMT+9 Thứ Bảy, 15 tháng 7, 2023
+Cập nhận lần cuối lúc lúc 19:33:19 GMT+9 Thứ Bảy, 15 tháng 7, 2023
