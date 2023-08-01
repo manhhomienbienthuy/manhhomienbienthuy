@@ -31,8 +31,8 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-08-01T12:56:06+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-06-20T16:31:07+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-06-06T15:57:01+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Những thông số quan trọng của chuột máy tính (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
 - [Năm 2022 nhìn lại: một thời covid (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa nhẹ, nhiệt độ **26.58°C**, độ ẩm **79%**, cảm giác như **26.58°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **27°C**, độ ẩm **76%**, cảm giác như **29.37°C**.
 
-Nhiệt độ thấp nhất là **24.16°C** và cao nhất là **28.32°C**
+Nhiệt độ thấp nhất là **24.99°C** và cao nhất là **28.88°C**
 
 Hôm nay mặt trời mọc lúc **04:48** và lặn lúc **18:46**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:48** và lặn lúc **18:46**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 14:05:08 GMT+9 Thứ Ba, 1 tháng 8, 2023
+Cập nhận lần cuối lúc lúc 14:28:16 GMT+9 Thứ Ba, 1 tháng 8, 2023
