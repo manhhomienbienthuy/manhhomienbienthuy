@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [JavaScript: cơ chế thu hồi rác (2023-08-02)](https://manhhomienbienthuy.github.io/2023/08/02/javascript-co-che-thu-hoi-rac.html)
 - [Bug là gì? Tại sao lại gọi thứ đó là bug? (2023-07-12)](https://manhhomienbienthuy.github.io/2023/07/12/bug-la-gi-tai-sao-lai-goi-thu-do-la-bug.html)
 - [So sánh nhỏ: Redis vs Memcached (2023-07-03)](https://manhhomienbienthuy.github.io/2023/07/03/so-sanh-nho-redis-vs-memcached.html)
 - [Phần mềm chất lượng đến từ môi trường làm việc (2023-06-20)](https://manhhomienbienthuy.github.io/2023/06/20/phan-mem-chat-luong-den-tu-moi-truong-lam-viec.html)
@@ -27,11 +28,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2023-05-01)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
 - [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-19)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 - [Lịch sử của Ctrl+C, Ctrl+V, Ctrl+X, và Ctrl+Z (2023-04-06)](https://manhhomienbienthuy.github.io/2023/04/06/lich-su-cua-ctrlc-ctrlv-ctrlx-va-ctrlz.html)
-- [Lập trình viên và chuyện gõ phím (2023-04-03)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-08-01T12:56:06+09:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
+- [Lập trình viên và chuyện gõ phím (2023-06-28T12:41:54+09:00)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-06-20T16:31:07+09:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Những thông số quan trọng của chuột máy tính (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Node.js thích hợp với những ứng dụng nào (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
 - [Node.js: Blocking & Non-blocking I/O (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 - [Hiểu hơn JavaScript: Object, Prototype và Class (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/04/01/hieu-hon-javascript-object-prototype-va-class.html)
-- [Đừng dùng last n versions với browserslist (2023-04-26T14:26:18+09:00)](https://manhhomienbienthuy.github.io/2022/03/16/dung-dung-last-n-versions-voi-browserslist.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/04d@2x.png)
+![weather](https://openweathermap.org/img/wn/03d@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **32.89°C**, độ ẩm **56%**, cảm giác như **37.89°C**.
+Hiện tại, trời mây rải rác, nhiệt độ **34.14°C**, độ ẩm **55%**, cảm giác như **40.53°C**.
 
-Nhiệt độ thấp nhất là **30.82°C** và cao nhất là **34.01°C**
+Nhiệt độ thấp nhất là **31.63°C** và cao nhất là **35.57°C**
 
 Hôm nay mặt trời mọc lúc **04:49** và lặn lúc **18:45**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:49** và lặn lúc **18:45**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 10:37:21 GMT+9 Thứ Tư, 2 tháng 8, 2023
+Cập nhận lần cuối lúc lúc 11:35:01 GMT+9 Thứ Tư, 2 tháng 8, 2023
