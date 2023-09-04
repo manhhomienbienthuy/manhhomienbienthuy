@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Cài Linux (dual boot) lên máy MacBook Pro (2023-09-04)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
 - [Screen Saver có giúp "save" màn hình? (2023-08-23)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
 - [Sơ lược về lịch sử bàn phím (2023-08-15)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
 - [JavaScript: cơ chế thu hồi rác (2023-08-02)](https://manhhomienbienthuy.github.io/2023/08/02/javascript-co-che-thu-hoi-rac.html)
@@ -27,20 +28,19 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Hiểu hơn về React: React Fiber (2023-06-13)](https://manhhomienbienthuy.github.io/2023/06/13/hieu-hon-ve-react-react-fiber.html)
 - [Mấy chục triệu lần bấm (hoặc click) là bao lâu? (2023-05-30)](https://manhhomienbienthuy.github.io/2023/05/30/may-chuc-trieu-lan-bam-hoac-click-la-bao-lau.html)
 - [Dấu ngoặc nhọn trong shell (2023-05-16)](https://manhhomienbienthuy.github.io/2023/05/16/dau-ngoac-nhon-trong-shell.html)
-- [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2023-05-01)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-08-07T00:16:18+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Lập trình viên và chuyện gõ phím (2023-06-28T03:41:54+00:00)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-06-20T07:31:07+00:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
+- [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2023-05-12T00:13:29+00:00)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
 - [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 - [Những thông số quan trọng của chuột máy tính (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
 - [Năm 2022 nhìn lại: một thời covid (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 - [Podman vs Docker (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2022/09/02/podman-vs-docker.html)
 - [Node.js thích hợp với những ứng dụng nào (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2022/08/15/nodejs-thich-hop-voi-nhung-ung-dung-nao.html)
-- [Node.js: Blocking & Non-blocking I/O (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2022/04/11/nodejs-blocking-non-blocking-io.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/04n@2x.png)
+![weather](https://openweathermap.org/img/wn/10n@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **28.34°C**, độ ẩm **91%**, cảm giác như **35.05°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **27.91°C**, độ ẩm **93%**, cảm giác như **33.98°C**.
 
-Nhiệt độ thấp nhất là **26.77°C** và cao nhất là **29.99°C**
+Nhiệt độ thấp nhất là **26.21°C** và cao nhất là **29.99°C**
 
 Hôm nay mặt trời mọc lúc **05:15** và lặn lúc **18:06**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **05:15** và lặn lúc **18:06**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 20:28:03 GMT+9 Thứ Hai, 4 tháng 9, 2023
+Cập nhận lần cuối lúc lúc 21:45:23 GMT+9 Thứ Hai, 4 tháng 9, 2023
