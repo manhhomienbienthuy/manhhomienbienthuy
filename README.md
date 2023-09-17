@@ -110,10 +110,10 @@ Hiện tại, trời mây thưa, nhiệt độ **28.39°C**, độ ẩm **73%**,
 
 Nhiệt độ thấp nhất là **26.38°C** và cao nhất là **30.03°C**
 
-Hôm nay mặt trời mọc lúc **05:24** và lặn lúc **17:47**.
+Hôm nay mặt trời mọc lúc **05:25** và lặn lúc **17:46**.
 
 ---
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 23:27:58 GMT+9 Chủ Nhật, 17 tháng 9, 2023
+Cập nhận lần cuối lúc lúc 00:28:12 GMT+9 Thứ Hai, 18 tháng 9, 2023
