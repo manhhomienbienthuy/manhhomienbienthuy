@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Ghi log cho ứng dụng Node.js (2023-09-25)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
 - [Sơ lược lịch sử ngành lập trình (2023-09-14)](https://manhhomienbienthuy.github.io/2023/09/14/so-luoc-lich-su-nganh-lap-trinh.html)
 - [Cài Linux (dual boot) lên máy MacBook Pro (2023-09-04)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
 - [Screen Saver có giúp "save" màn hình? (2023-08-23)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
@@ -27,11 +28,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [So sánh nhỏ: Redis vs Memcached (2023-07-03)](https://manhhomienbienthuy.github.io/2023/07/03/so-sanh-nho-redis-vs-memcached.html)
 - [Phần mềm chất lượng đến từ môi trường làm việc (2023-06-20)](https://manhhomienbienthuy.github.io/2023/06/20/phan-mem-chat-luong-den-tu-moi-truong-lam-viec.html)
 - [Hiểu hơn về React: React Fiber (2023-06-13)](https://manhhomienbienthuy.github.io/2023/06/13/hieu-hon-ve-react-react-fiber.html)
-- [Mấy chục triệu lần bấm (hoặc click) là bao lâu? (2023-05-30)](https://manhhomienbienthuy.github.io/2023/05/30/may-chuc-trieu-lan-bam-hoac-click-la-bao-lau.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
 - [Lập trình desktop app với Electron (2023-09-18T01:35:03+00:00)](https://manhhomienbienthuy.github.io/2021/08/02/lap-trinh-desktop-app-voi-electron.html)
+- [Mấy chục triệu lần bấm (hoặc click) là bao lâu? (2023-08-13T08:55:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/30/may-chuc-trieu-lan-bam-hoac-click-la-bao-lau.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-08-07T00:16:18+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Lập trình viên và chuyện gõ phím (2023-06-28T03:41:54+00:00)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-06-20T07:31:07+00:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 - [Những thông số quan trọng của chuột máy tính (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2023/03/13/nhung-thong-so-quan-trong-cua-chuot-may-tinh.html)
 - [Docker trên macOS không ngon như trên Linux (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2023/03/01/docker-tren-macos-khong-ngon-nhu-tren-linux.html)
-- [Năm 2022 nhìn lại: một thời covid (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2022/12/28/nam-2022-nhin-lai-mot-thoi-covid.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **24.82°C**, độ ẩm **64%**, cảm giác như **25.03°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **24.08°C**, độ ẩm **69%**, cảm giác như **24.35°C**.
 
-Nhiệt độ thấp nhất là **24.01°C** và cao nhất là **25.13°C**
+Nhiệt độ thấp nhất là **22.49°C** và cao nhất là **24.57°C**
 
 Hôm nay mặt trời mọc lúc **05:30** và lặn lúc **17:35**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **05:30** và lặn lúc **17:35**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Cập nhận lần cuối lúc lúc 18:28:12 GMT+9 Thứ Hai, 25 tháng 9, 2023
+Cập nhận lần cuối lúc lúc 19:31:49 GMT+9 Thứ Hai, 25 tháng 9, 2023
