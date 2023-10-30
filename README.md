@@ -23,7 +23,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Ghi log cho ứng dụng Node.js (2023-09-25)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
 - [Sơ lược lịch sử ngành lập trình (2023-09-14)](https://manhhomienbienthuy.github.io/2023/09/14/so-luoc-lich-su-nganh-lap-trinh.html)
 - [Cài Linux (dual boot) lên máy MacBook Pro (2023-09-04)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
-- [Screen Saver có giúp "save" màn hình? (2023-08-23)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
+- [Screen Saver có giúp “save” màn hình? (2023-08-23)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
 - [Sơ lược về lịch sử bàn phím (2023-08-15)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
 - [JavaScript: cơ chế thu hồi rác (2023-08-02)](https://manhhomienbienthuy.github.io/2023/08/02/javascript-co-che-thu-hoi-rac.html)
 - [Bug là gì? Tại sao lại gọi thứ đó là bug? (2023-07-12)](https://manhhomienbienthuy.github.io/2023/07/12/bug-la-gi-tai-sao-lai-goi-thu-do-la-bug.html)
@@ -31,6 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [Hiểu và master từ khoá “this” của JavaScript (2023-10-30T01:07:19+00:00)](https://manhhomienbienthuy.github.io/2016/03/28/hieu-va-master-tu-khoa-this-cua-javascript.html)
 - [Lập trình desktop app với Electron (2023-09-18T01:35:03+00:00)](https://manhhomienbienthuy.github.io/2021/08/02/lap-trinh-desktop-app-voi-electron.html)
 - [Mấy chục triệu lần bấm (hoặc click) là bao lâu? (2023-08-13T08:55:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/30/may-chuc-trieu-lan-bam-hoac-click-la-bao-lau.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-08-07T00:16:18+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Hiểu hơn về React: React Fiber (2023-06-13T02:42:57+00:00)](https://manhhomienbienthuy.github.io/2023/06/13/hieu-hon-ve-react-react-fiber.html)
 - [Dấu ngoặc nhọn trong shell (2023-05-26T04:11:06+00:00)](https://manhhomienbienthuy.github.io/2023/05/16/dau-ngoac-nhon-trong-shell.html)
 - [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2023-05-12T00:13:29+00:00)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
-- [Nâng cao điểm hiệu suất trên Lighthouse cho ứng dụng React (2023-04-26T05:26:18+00:00)](https://manhhomienbienthuy.github.io/2023/04/19/nang-cao-diem-hieu-suat-tren-lighthouse-cho-ung-dung-react.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **16.86°C**, độ ẩm **55%**, cảm giác như **16.04°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **19.06°C**, độ ẩm **53%**, cảm giác như **18.41°C**.
 
-Nhiệt độ thấp nhất là **13.91°C** và cao nhất là **17.23°C**
+Nhiệt độ thấp nhất là **18.32°C** và cao nhất là **20.12°C**
 
 Hôm nay mặt trời mọc lúc **06:00** và lặn lúc **16:49**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:00** và lặn lúc **16:49**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc lúc 08:28:05 GMT+9 Thứ Hai, 30 tháng 10, 2023
+Lần cập nhật gần nhất lúc lúc 10:30:32 GMT+9 Thứ Hai, 30 tháng 10, 2023
