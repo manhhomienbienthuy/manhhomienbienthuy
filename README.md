@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Giới thiệu ESNI, DoT & DoH (2023-11-06)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
 - [Khắc phục lỗi phím tắt ⌘ + \[ của Visual Studio Code trên macOS (2023-10-24)](https://manhhomienbienthuy.github.io/2023/10/24/khac-phuc-loi-phim-tat-cua-visual-studio-code-tren-macos.html)
 - [Node.js: Patterns & best practices (2023-10-10)](https://manhhomienbienthuy.github.io/2023/10/10/nodejs-patterns-best-practices.html)
 - [Ghi log cho ứng dụng Node.js (2023-09-25)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Sơ lược về lịch sử bàn phím (2023-08-15)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
 - [JavaScript: cơ chế thu hồi rác (2023-08-02)](https://manhhomienbienthuy.github.io/2023/08/02/javascript-co-che-thu-hoi-rac.html)
 - [Bug là gì? Tại sao lại gọi thứ đó là bug? (2023-07-12)](https://manhhomienbienthuy.github.io/2023/07/12/bug-la-gi-tai-sao-lai-goi-thu-do-la-bug.html)
-- [So sánh nhỏ: Redis vs Memcached (2023-07-03)](https://manhhomienbienthuy.github.io/2023/07/03/so-sanh-nho-redis-vs-memcached.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -35,12 +35,12 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Lập trình desktop app với Electron (2023-09-18T01:35:03+00:00)](https://manhhomienbienthuy.github.io/2021/08/02/lap-trinh-desktop-app-voi-electron.html)
 - [Mấy chục triệu lần bấm (hoặc click) là bao lâu? (2023-08-13T08:55:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/30/may-chuc-trieu-lan-bam-hoac-click-la-bao-lau.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-08-07T00:16:18+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
+- [So sánh nhỏ: Redis vs Memcached (2023-07-03T02:06:07+00:00)](https://manhhomienbienthuy.github.io/2023/07/03/so-sanh-nho-redis-vs-memcached.html)
 - [Phần mềm chất lượng đến từ môi trường làm việc (2023-06-28T03:41:54+00:00)](https://manhhomienbienthuy.github.io/2023/06/20/phan-mem-chat-luong-den-tu-moi-truong-lam-viec.html)
 - [Lập trình viên và chuyện gõ phím (2023-06-28T03:41:54+00:00)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-06-20T07:31:07+00:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 - [Hiểu hơn về React: React Fiber (2023-06-13T02:42:57+00:00)](https://manhhomienbienthuy.github.io/2023/06/13/hieu-hon-ve-react-react-fiber.html)
 - [Dấu ngoặc nhọn trong shell (2023-05-26T04:11:06+00:00)](https://manhhomienbienthuy.github.io/2023/05/16/dau-ngoac-nhon-trong-shell.html)
-- [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2023-05-12T00:13:29+00:00)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **24.5°C**, độ ẩm **69%**, cảm giác như **24.81°C**.
+Hiện tại, trời mây cụm, nhiệt độ **25.09°C**, độ ẩm **66%**, cảm giác như **25.38°C**.
 
-Nhiệt độ thấp nhất là **22.99°C** và cao nhất là **25.13°C**
+Nhiệt độ thấp nhất là **24.19°C** và cao nhất là **25.69°C**
 
 Hôm nay mặt trời mọc lúc **06:07** và lặn lúc **16:42**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:07** và lặn lúc **16:42**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc lúc 11:37:06 GMT+9 Thứ Hai, 6 tháng 11, 2023
+Lần cập nhật gần nhất lúc lúc 12:28:12 GMT+9 Thứ Hai, 6 tháng 11, 2023
