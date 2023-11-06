@@ -31,6 +31,8 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [HTTP/2.0 có gì mới? (2023-11-06T23:25:24+00:00)](https://manhhomienbienthuy.github.io/2018/04/19/http20-co-gi-moi.html)
+- [HTTPS đã đủ bảo mật chưa!?! (2023-11-06T23:25:24+00:00)](https://manhhomienbienthuy.github.io/2017/01/11/https-da-du-bao-mat-chua.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-11-06T07:11:17+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Hiểu và master từ khoá “this” của JavaScript (2023-10-30T01:07:19+00:00)](https://manhhomienbienthuy.github.io/2016/03/28/hieu-va-master-tu-khoa-this-cua-javascript.html)
 - [Lập trình desktop app với Electron (2023-09-18T01:35:03+00:00)](https://manhhomienbienthuy.github.io/2021/08/02/lap-trinh-desktop-app-voi-electron.html)
@@ -39,8 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Phần mềm chất lượng đến từ môi trường làm việc (2023-06-28T03:41:54+00:00)](https://manhhomienbienthuy.github.io/2023/06/20/phan-mem-chat-luong-den-tu-moi-truong-lam-viec.html)
 - [Lập trình viên và chuyện gõ phím (2023-06-28T03:41:54+00:00)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 - [Sử dụng bàn phím Windows trên macOS (2023-06-20T07:31:07+00:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
-- [Hiểu hơn về React: React Fiber (2023-06-13T02:42:57+00:00)](https://manhhomienbienthuy.github.io/2023/06/13/hieu-hon-ve-react-react-fiber.html)
-- [Dấu ngoặc nhọn trong shell (2023-05-26T04:11:06+00:00)](https://manhhomienbienthuy.github.io/2023/05/16/dau-ngoac-nhon-trong-shell.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa cường độ nặng, nhiệt độ **23.64°C**, độ ẩm **84%**, cảm giác như **24.25°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **24.09°C**, độ ẩm **81%**, cảm giác như **24.67°C**.
 
-Nhiệt độ thấp nhất là **22.05°C** và cao nhất là **24.43°C**
+Nhiệt độ thấp nhất là **22.05°C** và cao nhất là **25.55°C**
 
 Hôm nay mặt trời mọc lúc **06:08** và lặn lúc **16:41**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:08** và lặn lúc **16:41**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc lúc 07:29:39 GMT+9 Thứ Ba, 7 tháng 11, 2023
+Lần cập nhật gần nhất lúc lúc 08:28:01 GMT+9 Thứ Ba, 7 tháng 11, 2023
