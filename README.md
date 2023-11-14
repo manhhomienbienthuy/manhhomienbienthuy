@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [HTTP/3 – giao thức thế hệ mới có gì hot? (2023-11-14)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
 - [Giới thiệu ESNI, DoT & DoH (2023-11-06)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
 - [Khắc phục lỗi phím tắt ⌘ + \[ của Visual Studio Code trên macOS (2023-10-24)](https://manhhomienbienthuy.github.io/2023/10/24/khac-phuc-loi-phim-tat-cua-visual-studio-code-tren-macos.html)
 - [Node.js: Patterns & best practices (2023-10-10)](https://manhhomienbienthuy.github.io/2023/10/10/nodejs-patterns-best-practices.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Screen Saver có giúp “save” màn hình? (2023-08-23)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
 - [Sơ lược về lịch sử bàn phím (2023-08-15)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
 - [JavaScript: cơ chế thu hồi rác (2023-08-02)](https://manhhomienbienthuy.github.io/2023/08/02/javascript-co-che-thu-hoi-rac.html)
-- [Bug là gì? Tại sao lại gọi thứ đó là bug? (2023-07-12)](https://manhhomienbienthuy.github.io/2023/07/12/bug-la-gi-tai-sao-lai-goi-thu-do-la-bug.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -37,10 +37,10 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Hiểu và master từ khoá “this” của JavaScript (2023-10-30T01:07:19+00:00)](https://manhhomienbienthuy.github.io/2016/03/28/hieu-va-master-tu-khoa-this-cua-javascript.html)
 - [Lập trình desktop app với Electron (2023-09-18T01:35:03+00:00)](https://manhhomienbienthuy.github.io/2021/08/02/lap-trinh-desktop-app-voi-electron.html)
 - [Mấy chục triệu lần bấm (hoặc click) là bao lâu? (2023-08-13T08:55:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/30/may-chuc-trieu-lan-bam-hoac-click-la-bao-lau.html)
+- [Bug là gì? Tại sao lại gọi thứ đó là bug? (2023-07-12T10:08:15+00:00)](https://manhhomienbienthuy.github.io/2023/07/12/bug-la-gi-tai-sao-lai-goi-thu-do-la-bug.html)
 - [So sánh nhỏ: Redis vs Memcached (2023-07-03T02:06:07+00:00)](https://manhhomienbienthuy.github.io/2023/07/03/so-sanh-nho-redis-vs-memcached.html)
 - [Phần mềm chất lượng đến từ môi trường làm việc (2023-06-28T03:41:54+00:00)](https://manhhomienbienthuy.github.io/2023/06/20/phan-mem-chat-luong-den-tu-moi-truong-lam-viec.html)
 - [Lập trình viên và chuyện gõ phím (2023-06-28T03:41:54+00:00)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
-- [Sử dụng bàn phím Windows trên macOS (2023-06-20T07:31:07+00:00)](https://manhhomienbienthuy.github.io/2023/01/12/su-dung-ban-phim-windows-tren-macos.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/02d@2x.png)
 
-Hiện tại, trời mây thưa, nhiệt độ **18.19°C**, độ ẩm **31%**, cảm giác như **16.87°C**.
+Hiện tại, trời mây thưa, nhiệt độ **17.75°C**, độ ẩm **27%**, cảm giác như **16.29°C**.
 
-Nhiệt độ thấp nhất là **16.72°C** và cao nhất là **19.19°C**
+Nhiệt độ thấp nhất là **16.72°C** và cao nhất là **18.82°C**
 
 Hôm nay mặt trời mọc lúc **06:15** và lặn lúc **16:35**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:15** và lặn lúc **16:35**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc lúc 14:28:39 GMT+9 Thứ Ba, 14 tháng 11, 2023
+Lần cập nhật gần nhất lúc lúc 15:31:51 GMT+9 Thứ Ba, 14 tháng 11, 2023
