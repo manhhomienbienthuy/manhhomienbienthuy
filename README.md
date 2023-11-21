@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [JavaScript: Popups (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2019/04/20/javascript-popups.html)
+- [HTML5 web worker: truyền dữ liệu (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2018/12/20/html5-web-worker-truyen-du-lieu.html)
+- [HTML5 web worker: hiểu biết cơ bản (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2018/11/20/html5-web-worker-hieu-biet-co-ban.html)
+- [Python context managers (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2017/05/12/python-context-managers.html)
+- [Python class decorator (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2016/03/08/python-class-decorator.html)
 - [HTTP/2.0 có gì mới? (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2018/04/19/http20-co-gi-moi.html)
 - [HTTPS đã đủ bảo mật chưa!?! (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2017/01/11/https-da-du-bao-mat-chua.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-11-06T07:11:17+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Hiểu và master từ khoá “this” của JavaScript (2023-10-30T01:07:19+00:00)](https://manhhomienbienthuy.github.io/2016/03/28/hieu-va-master-tu-khoa-this-cua-javascript.html)
 - [Lập trình desktop app với Electron (2023-09-18T01:35:03+00:00)](https://manhhomienbienthuy.github.io/2021/08/02/lap-trinh-desktop-app-voi-electron.html)
-- [Mấy chục triệu lần bấm (hoặc click) là bao lâu? (2023-08-13T08:55:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/30/may-chuc-trieu-lan-bam-hoac-click-la-bao-lau.html)
-- [Bug là gì? Tại sao lại gọi thứ đó là bug? (2023-07-12T10:08:15+00:00)](https://manhhomienbienthuy.github.io/2023/07/12/bug-la-gi-tai-sao-lai-goi-thu-do-la-bug.html)
-- [So sánh nhỏ: Redis vs Memcached (2023-07-03T02:06:07+00:00)](https://manhhomienbienthuy.github.io/2023/07/03/so-sanh-nho-redis-vs-memcached.html)
-- [Phần mềm chất lượng đến từ môi trường làm việc (2023-06-28T03:41:54+00:00)](https://manhhomienbienthuy.github.io/2023/06/20/phan-mem-chat-luong-den-tu-moi-truong-lam-viec.html)
-- [Lập trình viên và chuyện gõ phím (2023-06-28T03:41:54+00:00)](https://manhhomienbienthuy.github.io/2023/04/03/lap-trinh-vien-va-chuyen-go-phim.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **10.62°C**, độ ẩm **52%**, cảm giác như **9.1°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **13.62°C**, độ ẩm **47%**, cảm giác như **12.26°C**.
 
-Nhiệt độ thấp nhất là **7.49°C** và cao nhất là **13.32°C**
+Nhiệt độ thấp nhất là **11.72°C** và cao nhất là **15.66°C**
 
 Hôm nay mặt trời mọc lúc **06:22** và lặn lúc **16:31**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:22** và lặn lúc **16:31**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc lúc 08:28:10 GMT+9 Thứ Ba, 21 tháng 11, 2023
+Lần cập nhật gần nhất lúc lúc 10:38:12 GMT+9 Thứ Ba, 21 tháng 11, 2023
