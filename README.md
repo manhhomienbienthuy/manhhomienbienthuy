@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Lambda trong Python (2023-11-30)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
 - [HTTP/3 – giao thức thế hệ mới có gì hot? (2023-11-14)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
 - [Giới thiệu ESNI, DoT & DoH (2023-11-06)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
 - [Khắc phục lỗi phím tắt ⌘ + \[ của Visual Studio Code trên macOS (2023-10-24)](https://manhhomienbienthuy.github.io/2023/10/24/khac-phuc-loi-phim-tat-cua-visual-studio-code-tren-macos.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Cài Linux (dual boot) lên máy MacBook Pro (2023-09-04)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
 - [Screen Saver có giúp “save” màn hình? (2023-08-23)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
 - [Sơ lược về lịch sử bàn phím (2023-08-15)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
-- [JavaScript: cơ chế thu hồi rác (2023-08-02)](https://manhhomienbienthuy.github.io/2023/08/02/javascript-co-che-thu-hoi-rac.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **13.75°C**, độ ẩm **44%**, cảm giác như **12.33°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **15.23°C**, độ ẩm **41%**, cảm giác như **13.88°C**.
 
-Nhiệt độ thấp nhất là **12.19°C** và cao nhất là **15.04°C**
+Nhiệt độ thấp nhất là **14.19°C** và cao nhất là **16.15°C**
 
 Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **16:28**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:31** và lặn lúc **16:28**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc lúc 10:34:51 GMT+9 Thứ Năm, 30 tháng 11, 2023
+Lần cập nhật gần nhất lúc lúc 11:38:19 GMT+9 Thứ Năm, 30 tháng 11, 2023
