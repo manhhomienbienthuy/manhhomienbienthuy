@@ -31,6 +31,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-12-12T05:41:16+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [JavaScript: Popups (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2019/04/20/javascript-popups.html)
 - [HTML5 web worker: truyền dữ liệu (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2018/12/20/html5-web-worker-truyen-du-lieu.html)
 - [HTML5 web worker: hiểu biết cơ bản (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2018/11/20/html5-web-worker-hieu-biet-co-ban.html)
@@ -38,7 +39,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Python class decorator (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2016/03/08/python-class-decorator.html)
 - [HTTP/2.0 có gì mới? (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2018/04/19/http20-co-gi-moi.html)
 - [HTTPS đã đủ bảo mật chưa!?! (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2017/01/11/https-da-du-bao-mat-chua.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-11-06T07:11:17+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Sơ lược về lịch sử bàn phím (2023-11-06T00:50:09+00:00)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
 - [Hiểu và master từ khoá “this” của JavaScript (2023-10-30T01:07:19+00:00)](https://manhhomienbienthuy.github.io/2016/03/28/hieu-va-master-tu-khoa-this-cua-javascript.html)
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **16.28°C**, độ ẩm **77%**, cảm giác như **15.97°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **15.88°C**, độ ẩm **78%**, cảm giác như **15.56°C**.
 
-Nhiệt độ thấp nhất là **13.99°C** và cao nhất là **18.82°C**
+Nhiệt độ thấp nhất là **13.98°C** và cao nhất là **17.35°C**
 
 Hôm nay mặt trời mọc lúc **06:41** và lặn lúc **16:27**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:41** và lặn lúc **16:27**.
 
 Copyright © 2022-2023 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc lúc 14:29:38 GMT+9 Thứ Ba, 12 tháng 12, 2023
+Lần cập nhật gần nhất lúc lúc 15:32:42 GMT+9 Thứ Ba, 12 tháng 12, 2023
