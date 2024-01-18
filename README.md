@@ -31,6 +31,8 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [Dấu ngoặc nhọn trong shell (2024-01-18T08:45:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/16/dau-ngoac-nhon-trong-shell.html)
+- [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2024-01-18T08:45:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-12-12T05:41:16+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [JavaScript: Popups (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2019/04/20/javascript-popups.html)
 - [HTML5 web worker: truyền dữ liệu (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2018/12/20/html5-web-worker-truyen-du-lieu.html)
@@ -39,8 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Python class decorator (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2016/03/08/python-class-decorator.html)
 - [HTTP/2.0 có gì mới? (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2018/04/19/http20-co-gi-moi.html)
 - [HTTPS đã đủ bảo mật chưa!?! (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2017/01/11/https-da-du-bao-mat-chua.html)
-- [Sơ lược về lịch sử bàn phím (2023-11-06T00:50:09+00:00)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
-- [Screen Saver có giúp “save” màn hình? (2023-10-30T01:07:19+00:00)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **12°C**, độ ẩm **46%**, cảm giác như **10.46°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **11.23°C**, độ ẩm **49%**, cảm giác như **9.69°C**.
 
-Nhiệt độ thấp nhất là **11.1°C** và cao nhất là **13.92°C**
+Nhiệt độ thấp nhất là **10.55°C** và cao nhất là **13.36°C**
 
 Hôm nay mặt trời mọc lúc **06:49** và lặn lúc **16:52**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:49** và lặn lúc **16:52**.
 
 Copyright © 2022-2024 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 17:30:53 GMT+9 Thứ Năm, 18 tháng 1, 2024
+Lần cập nhật gần nhất lúc 18:28:00 GMT+9 Thứ Năm, 18 tháng 1, 2024
