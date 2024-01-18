@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [So sánh: CSS-in-JS vs CSS module (2024-01-18)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
 - [Bí ẩn layout QWERTY (2023-12-12)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
 - [Lambda trong Python (2023-11-30)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
 - [HTTP/3 – giao thức thế hệ mới có gì hot? (2023-11-14)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Ghi log cho ứng dụng Node.js (2023-09-25)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
 - [Sơ lược lịch sử ngành lập trình (2023-09-14)](https://manhhomienbienthuy.github.io/2023/09/14/so-luoc-lich-su-nganh-lap-trinh.html)
 - [Cài Linux (dual boot) lên máy MacBook Pro (2023-09-04)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
-- [Screen Saver có giúp “save” màn hình? (2023-08-23)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -40,7 +40,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [HTTP/2.0 có gì mới? (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2018/04/19/http20-co-gi-moi.html)
 - [HTTPS đã đủ bảo mật chưa!?! (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2017/01/11/https-da-du-bao-mat-chua.html)
 - [Sơ lược về lịch sử bàn phím (2023-11-06T00:50:09+00:00)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
-- [Hiểu và master từ khoá “this” của JavaScript (2023-10-30T01:07:19+00:00)](https://manhhomienbienthuy.github.io/2016/03/28/hieu-va-master-tu-khoa-this-cua-javascript.html)
+- [Screen Saver có giúp “save” màn hình? (2023-10-30T01:07:19+00:00)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/02d@2x.png)
 
-Hiện tại, trời mây thưa, nhiệt độ **6.7°C**, độ ẩm **49%**, cảm giác như **6.7°C**.
+Hiện tại, trời mây thưa, nhiệt độ **10.15°C**, độ ẩm **37%**, cảm giác như **8.19°C**.
 
-Nhiệt độ thấp nhất là **3.91°C** và cao nhất là **9.47°C**
+Nhiệt độ thấp nhất là **7.99°C** và cao nhất là **12.26°C**
 
 Hôm nay mặt trời mọc lúc **06:49** và lặn lúc **16:52**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:49** và lặn lúc **16:52**.
 
 Copyright © 2022-2024 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 08:28:15 GMT+9 Thứ Năm, 18 tháng 1, 2024
+Lần cập nhật gần nhất lúc 10:35:44 GMT+9 Thứ Năm, 18 tháng 1, 2024
