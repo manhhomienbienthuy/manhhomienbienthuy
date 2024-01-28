@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [macOS có phải UNIX hay không? (2024-01-28)](https://manhhomienbienthuy.github.io/2024/01/28/macos-co-phai-unix-hay-khong.html)
 - [So sánh: CSS-in-JS vs CSS module (2024-01-18)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
 - [Bí ẩn layout QWERTY (2023-12-12)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
 - [Lambda trong Python (2023-11-30)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Node.js: Patterns & best practices (2023-10-10)](https://manhhomienbienthuy.github.io/2023/10/10/nodejs-patterns-best-practices.html)
 - [Ghi log cho ứng dụng Node.js (2023-09-25)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
 - [Sơ lược lịch sử ngành lập trình (2023-09-14)](https://manhhomienbienthuy.github.io/2023/09/14/so-luoc-lich-su-nganh-lap-trinh.html)
-- [Cài Linux (dual boot) lên máy MacBook Pro (2023-09-04)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **10.2°C**, độ ẩm **37%**, cảm giác như **8.24°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **9.93°C**, độ ẩm **38%**, cảm giác như **8.54°C**.
 
-Nhiệt độ thấp nhất là **8.94°C** và cao nhất là **12.25°C**
+Nhiệt độ thấp nhất là **8.43°C** và cao nhất là **11.7°C**
 
 Hôm nay mặt trời mọc lúc **06:45** và lặn lúc **17:02**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:45** và lặn lúc **17:02**.
 
 Copyright © 2022-2024 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 15:28:33 GMT+9 Chủ Nhật, 28 tháng 1, 2024
+Lần cập nhật gần nhất lúc 16:28:09 GMT+9 Chủ Nhật, 28 tháng 1, 2024
