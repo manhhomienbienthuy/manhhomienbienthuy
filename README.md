@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [So sánh: kiến trúc stateful vs stateless (2024-02-01)](https://manhhomienbienthuy.github.io/2024/02/01/so-sanh-kien-truc-stateful-vs-stateless.html)
 - [macOS có phải UNIX hay không? (2024-01-28)](https://manhhomienbienthuy.github.io/2024/01/28/macos-co-phai-unix-hay-khong.html)
 - [So sánh: CSS-in-JS vs CSS module (2024-01-18)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
 - [Bí ẩn layout QWERTY (2023-12-12)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Khắc phục lỗi phím tắt ⌘ + \[ của Visual Studio Code trên macOS (2023-10-24)](https://manhhomienbienthuy.github.io/2023/10/24/khac-phuc-loi-phim-tat-cua-visual-studio-code-tren-macos.html)
 - [Node.js: Patterns & best practices (2023-10-10)](https://manhhomienbienthuy.github.io/2023/10/10/nodejs-patterns-best-practices.html)
 - [Ghi log cho ứng dụng Node.js (2023-09-25)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
-- [Sơ lược lịch sử ngành lập trình (2023-09-14)](https://manhhomienbienthuy.github.io/2023/09/14/so-luoc-lich-su-nganh-lap-trinh.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **14.07°C**, độ ẩm **32%**, cảm giác như **12.37°C**.
+Hiện tại, trời mây cụm, nhiệt độ **12.31°C**, độ ẩm **34%**, cảm giác như **10.48°C**.
 
-Nhiệt độ thấp nhất là **12.9°C** và cao nhất là **15.59°C**
+Nhiệt độ thấp nhất là **11.19°C** và cao nhất là **13.92°C**
 
 Hôm nay mặt trời mọc lúc **06:42** và lặn lúc **17:06**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:42** và lặn lúc **17:06**.
 
 Copyright © 2022-2024 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 15:30:45 GMT+9 Thứ Năm, 1 tháng 2, 2024
+Lần cập nhật gần nhất lúc 16:27:59 GMT+9 Thứ Năm, 1 tháng 2, 2024
