@@ -18,7 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
-- [So sánh: kiến trúc stateful vs stateless (2024-02-01)](https://manhhomienbienthuy.github.io/2024/02/01/so-sanh-kien-truc-stateful-vs-stateless.html)
+- [So sánh: kiến trúc stateful vs stateless (2024-02-02)](https://manhhomienbienthuy.github.io/2024/02/02/so-sanh-kien-truc-stateful-vs-stateless.html)
 - [macOS có phải UNIX hay không? (2024-01-28)](https://manhhomienbienthuy.github.io/2024/01/28/macos-co-phai-unix-hay-khong.html)
 - [So sánh: CSS-in-JS vs CSS module (2024-01-18)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
 - [Bí ẩn layout QWERTY (2023-12-12)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
@@ -108,7 +108,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 Hiện tại, trời mây đen u ám, nhiệt độ **6.52°C**, độ ẩm **44%**, cảm giác như **6.52°C**.
 
-Nhiệt độ thấp nhất là **4.99°C** và cao nhất là **7.9°C**
+Nhiệt độ thấp nhất là **5.61°C** và cao nhất là **8.36°C**
 
 Hôm nay mặt trời mọc lúc **06:41** và lặn lúc **17:07**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **06:41** và lặn lúc **17:07**.
 
 Copyright © 2022-2024 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 14:29:03 GMT+9 Thứ Sáu, 2 tháng 2, 2024
+Lần cập nhật gần nhất lúc 15:29:28 GMT+9 Thứ Sáu, 2 tháng 2, 2024
