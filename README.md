@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Tính toán song song trong Node.js (2024-06-18)](https://manhhomienbienthuy.github.io/2024/06/18/tinh-toan-song-song-trong-nodejs.html)
 - [Giới thiệu service worker (2024-05-31)](https://manhhomienbienthuy.github.io/2024/05/31/gioi-thieu-service-worker.html)
 - [So sánh: kiến trúc stateful vs stateless (2024-02-02)](https://manhhomienbienthuy.github.io/2024/02/02/so-sanh-kien-truc-stateful-vs-stateless.html)
 - [macOS có phải UNIX hay không? (2024-01-28)](https://manhhomienbienthuy.github.io/2024/01/28/macos-co-phai-unix-hay-khong.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [HTTP/3 – giao thức thế hệ mới có gì hot? (2023-11-14)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
 - [Giới thiệu ESNI, DoT & DoH (2023-11-06)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
 - [Khắc phục lỗi phím tắt ⌘ + \[ của Visual Studio Code trên macOS (2023-10-24)](https://manhhomienbienthuy.github.io/2023/10/24/khac-phuc-loi-phim-tat-cua-visual-studio-code-tren-macos.html)
-- [Node.js: Patterns & best practices (2023-10-10)](https://manhhomienbienthuy.github.io/2023/10/10/nodejs-patterns-best-practices.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa cường độ nặng, nhiệt độ **18.86°C**, độ ẩm **96%**, cảm giác như **19.31°C**.
+Hiện tại, trời mưa vừa, nhiệt độ **18.89°C**, độ ẩm **96%**, cảm giác như **19.34°C**.
 
-Nhiệt độ thấp nhất là **18.19°C** và cao nhất là **20.12°C**
+Nhiệt độ thấp nhất là **17.88°C** và cao nhất là **20.03°C**
 
 Hôm nay mặt trời mọc lúc **04:24** và lặn lúc **18:59**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:24** và lặn lúc **18:59**.
 
 Copyright © 2022-2024 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 16:28:05 GMT+9 Thứ Ba, 18 tháng 6, 2024
+Lần cập nhật gần nhất lúc 17:33:38 GMT+9 Thứ Ba, 18 tháng 6, 2024
