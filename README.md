@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Bash: thực thi lệnh có chứa dấu cách được lưu trong biến (2024-07-12)](https://manhhomienbienthuy.github.io/2024/07/12/bash-thuc-thi-lenh-co-chua-dau-cach-duoc-luu-trong-bien.html)
 - [Tính toán song song trong Node.js (2024-06-18)](https://manhhomienbienthuy.github.io/2024/06/18/tinh-toan-song-song-trong-nodejs.html)
 - [Giới thiệu service worker (2024-05-31)](https://manhhomienbienthuy.github.io/2024/05/31/gioi-thieu-service-worker.html)
 - [So sánh: kiến trúc stateful vs stateless (2024-02-02)](https://manhhomienbienthuy.github.io/2024/02/02/so-sanh-kien-truc-stateful-vs-stateless.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Lambda trong Python (2023-11-30)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
 - [HTTP/3 – giao thức thế hệ mới có gì hot? (2023-11-14)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
 - [Giới thiệu ESNI, DoT & DoH (2023-11-06)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
-- [Khắc phục lỗi phím tắt ⌘ + \[ của Visual Studio Code trên macOS (2023-10-24)](https://manhhomienbienthuy.github.io/2023/10/24/khac-phuc-loi-phim-tat-cua-visual-studio-code-tren-macos.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa vừa, nhiệt độ **24.17°C**, độ ẩm **90%**, cảm giác như **24.99°C**.
+Hiện tại, trời mưa vừa, nhiệt độ **24.12°C**, độ ẩm **89%**, cảm giác như **24.91°C**.
 
-Nhiệt độ thấp nhất là **23.36°C** và cao nhất là **25.04°C**
+Nhiệt độ thấp nhất là **22.8°C** và cao nhất là **25.04°C**
 
 Hôm nay mặt trời mọc lúc **04:34** và lặn lúc **18:58**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:34** và lặn lúc **18:58**.
 
 Copyright © 2022-2024 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 16:28:03 GMT+9 Thứ Sáu, 12 tháng 7, 2024
+Lần cập nhật gần nhất lúc 17:33:27 GMT+9 Thứ Sáu, 12 tháng 7, 2024
