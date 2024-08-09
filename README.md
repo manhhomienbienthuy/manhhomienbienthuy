@@ -106,9 +106,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **29.05°C**, độ ẩm **68%**, cảm giác như **32.47°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **31.5°C**, độ ẩm **62%**, cảm giác như **36.5°C**.
 
-Nhiệt độ thấp nhất là **28.16°C** và cao nhất là **30.12°C**
+Nhiệt độ thấp nhất là **30.58°C** và cao nhất là **31.82°C**
 
 Hôm nay mặt trời mọc lúc **04:56** và lặn lúc **18:37**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **04:56** và lặn lúc **18:37**.
 
 Copyright © 2022-2024 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 07:32:54 GMT+9 Thứ Bảy, 10 tháng 8, 2024
+Lần cập nhật gần nhất lúc 08:28:14 GMT+9 Thứ Bảy, 10 tháng 8, 2024
