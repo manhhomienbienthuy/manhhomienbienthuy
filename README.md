@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Linux: 3 lệnh quan trọng để xử lý dữ liệu text (2024-10-25)](https://manhhomienbienthuy.github.io/2024/10/25/linux-3-lenh-quan-trong-de-xu-ly-du-lieu-text.html)
 - [Bash: thực thi lệnh có chứa dấu cách được lưu trong biến (2024-07-12)](https://manhhomienbienthuy.github.io/2024/07/12/bash-thuc-thi-lenh-co-chua-dau-cach-duoc-luu-trong-bien.html)
 - [Tính toán song song trong Node.js (2024-06-18)](https://manhhomienbienthuy.github.io/2024/06/18/tinh-toan-song-song-trong-nodejs.html)
 - [Giới thiệu service worker (2024-05-31)](https://manhhomienbienthuy.github.io/2024/05/31/gioi-thieu-service-worker.html)
@@ -27,7 +28,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Bí ẩn layout QWERTY (2023-12-12)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
 - [Lambda trong Python (2023-11-30)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
 - [HTTP/3 – giao thức thế hệ mới có gì hot? (2023-11-14)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
-- [Giới thiệu ESNI, DoT & DoH (2023-11-06)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -39,8 +39,8 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [HTML5 web worker: hiểu biết cơ bản (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2018/11/20/html5-web-worker-hieu-biet-co-ban.html)
 - [Python context managers (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2017/05/12/python-context-managers.html)
 - [Python class decorator (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2016/03/08/python-class-decorator.html)
+- [Giới thiệu ESNI, DoT & DoH (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
 - [HTTP/2.0 có gì mới? (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2018/04/19/http20-co-gi-moi.html)
-- [HTTPS đã đủ bảo mật chưa!?! (2023-11-06T23:31:38+00:00)](https://manhhomienbienthuy.github.io/2017/01/11/https-da-du-bao-mat-chua.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -104,11 +104,11 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/10d@2x.png)
+![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mưa nhẹ, nhiệt độ **19.58°C**, độ ẩm **89%**, cảm giác như **19.92°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **20.6°C**, độ ẩm **78%**, cảm giác như **20.75°C**.
 
-Nhiệt độ thấp nhất là **18.94°C** và cao nhất là **20.59°C**
+Nhiệt độ thấp nhất là **19.99°C** và cao nhất là **21.14°C**
 
 Hôm nay mặt trời mọc lúc **05:56** và lặn lúc **16:53**.
 
@@ -116,4 +116,4 @@ Hôm nay mặt trời mọc lúc **05:56** và lặn lúc **16:53**.
 
 Copyright © 2022-2024 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 08:30:43 GMT+9 Thứ Sáu, 25 tháng 10, 2024
+Lần cập nhật gần nhất lúc 10:57:11 GMT+9 Thứ Sáu, 25 tháng 10, 2024
