@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Hiểu về meta programming (2025-05-14)](https://manhhomienbienthuy.github.io/2025/05/14/hieu-ve-meta-programming.html)
 - [BFF: Backends For Frontends (2025-04-01)](https://manhhomienbienthuy.github.io/2025/04/01/bff-backends-for-frontends.html)
 - [Giới hạn bộ nhớ trong Node.js (2025-03-05)](https://manhhomienbienthuy.github.io/2025/03/05/gioi-han-bo-nho-trong-nodejs.html)
 - [Linux: 3 lệnh quan trọng để xử lý dữ liệu text (2024-10-25)](https://manhhomienbienthuy.github.io/2024/10/25/linux-3-lenh-quan-trong-de-xu-ly-du-lieu-text.html)
@@ -27,20 +28,19 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [So sánh: kiến trúc stateful vs stateless (2024-02-02)](https://manhhomienbienthuy.github.io/2024/02/02/so-sanh-kien-truc-stateful-vs-stateless.html)
 - [macOS có phải UNIX hay không? (2024-01-28)](https://manhhomienbienthuy.github.io/2024/01/28/macos-co-phai-unix-hay-khong.html)
 - [So sánh: CSS-in-JS vs CSS module (2024-01-18)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
-- [Bí ẩn layout QWERTY (2023-12-12)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
 - [Dấu ngoặc nhọn trong shell (2024-01-18T08:45:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/16/dau-ngoac-nhon-trong-shell.html)
 - [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2024-01-18T08:45:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-12-12T05:41:16+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
+- [Bí ẩn layout QWERTY (2023-12-12T02:16:48+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
 - [Lambda trong Python (2023-11-30T02:01:57+00:00)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
 - [HTTP/3 – giao thức thế hệ mới có gì hot? (2023-11-22T01:56:56+00:00)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
 - [JavaScript: Popups (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2019/04/20/javascript-popups.html)
 - [HTML5 web worker: truyền dữ liệu (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2018/12/20/html5-web-worker-truyen-du-lieu.html)
 - [HTML5 web worker: hiểu biết cơ bản (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2018/11/20/html5-web-worker-hieu-biet-co-ban.html)
 - [Python context managers (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2017/05/12/python-context-managers.html)
-- [Python class decorator (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2016/03/08/python-class-decorator.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -131,9 +131,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **25.99°C**, độ ẩm **45%**, cảm giác như **25.99°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **25.59°C**, độ ẩm **47%**, cảm giác như **25.43°C**.
 
-Nhiệt độ thấp nhất là **24.27°C** và cao nhất là **26.72°C**
+Nhiệt độ thấp nhất là **22.83°C** và cao nhất là **26.12°C**
 
 Hôm nay mặt trời mọc lúc **04:37** và lặn lúc **18:38**.
 
@@ -141,4 +141,4 @@ Hôm nay mặt trời mọc lúc **04:37** và lặn lúc **18:38**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 16:33:30 GMT+9 Thứ Tư, 14 tháng 5, 2025
+Lần cập nhật gần nhất lúc 17:43:12 GMT+9 Thứ Tư, 14 tháng 5, 2025
