@@ -31,16 +31,16 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết được chỉnh sửa gần đây
 
-- [Dấu ngoặc nhọn trong shell (2024-01-18T08:45:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/16/dau-ngoac-nhon-trong-shell.html)
-- [Sự khác biệt của các toán tử \[\[ vs \[ vs ( vs (( trong shell script (2024-01-18T08:45:01+00:00)](https://manhhomienbienthuy.github.io/2023/05/01/su-khac-biet-cua-cac-toan-tu-vs-vs-vs-trong-shell-script.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2023-12-12T05:41:16+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
-- [Bí ẩn layout QWERTY (2023-12-12T02:16:48+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
-- [Lambda trong Python (2023-11-30T02:01:57+00:00)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
-- [HTTP/3 – giao thức thế hệ mới có gì hot? (2023-11-22T01:56:56+00:00)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
-- [JavaScript: Popups (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2019/04/20/javascript-popups.html)
-- [HTML5 web worker: truyền dữ liệu (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2018/12/20/html5-web-worker-truyen-du-lieu.html)
-- [HTML5 web worker: hiểu biết cơ bản (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2018/11/20/html5-web-worker-hieu-biet-co-ban.html)
-- [Python context managers (2023-11-21T00:46:56+00:00)](https://manhhomienbienthuy.github.io/2017/05/12/python-context-managers.html)
+- [Bí ẩn layout QWERTY (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
+- [Lambda trong Python (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
+- [HTTP/3 – giao thức thế hệ mới có gì hot? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
+- [Giới thiệu ESNI, DoT & DoH (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
+- [Khắc phục lỗi phím tắt ⌘ + \[ của Visual Studio Code trên macOS (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/10/24/khac-phuc-loi-phim-tat-cua-visual-studio-code-tren-macos.html)
+- [Node.js: Patterns & best practices (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/10/10/nodejs-patterns-best-practices.html)
+- [Ghi log cho ứng dụng Node.js (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
+- [Sơ lược lịch sử ngành lập trình (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/09/14/so-luoc-lich-su-nganh-lap-trinh.html)
+- [Cài Linux (dual boot) lên máy MacBook Pro (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
+- [Screen Saver có giúp “save” màn hình? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -131,9 +131,9 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **26.79°C**, độ ẩm **42%**, cảm giác như **26.81°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **25.23°C**, độ ẩm **46%**, cảm giác như **25.01°C**.
 
-Nhiệt độ thấp nhất là **25.03°C** và cao nhất là **27.83°C**
+Nhiệt độ thấp nhất là **23.94°C** và cao nhất là **25.57°C**
 
 Hôm nay mặt trời mọc lúc **04:25** và lặn lúc **18:54**.
 
@@ -141,4 +141,4 @@ Hôm nay mặt trời mọc lúc **04:25** và lặn lúc **18:54**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 17:43:26 GMT+9 Thứ Năm, 5 tháng 6, 2025
+Lần cập nhật gần nhất lúc 18:37:53 GMT+9 Thứ Năm, 5 tháng 6, 2025
