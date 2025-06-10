@@ -18,6 +18,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ## Bài viết gần đây
 
+- [Domain-Driven Design (DDD): khái niệm, nguyên tắc và ứng dụng (2025-06-10)](https://manhhomienbienthuy.github.io/2025/06/10/domain-driven-design-ddd-khai-niem-nguyen-tac-va-ung-dung.html)
 - [Hiểu về meta programming (2025-05-14)](https://manhhomienbienthuy.github.io/2025/05/14/hieu-ve-meta-programming.html)
 - [BFF: Backends For Frontends (2025-04-01)](https://manhhomienbienthuy.github.io/2025/04/01/bff-backends-for-frontends.html)
 - [Giới hạn bộ nhớ trong Node.js (2025-03-05)](https://manhhomienbienthuy.github.io/2025/03/05/gioi-han-bo-nho-trong-nodejs.html)
@@ -27,10 +28,10 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Giới thiệu service worker (2024-05-31)](https://manhhomienbienthuy.github.io/2024/05/31/gioi-thieu-service-worker.html)
 - [So sánh: kiến trúc stateful vs stateless (2024-02-02)](https://manhhomienbienthuy.github.io/2024/02/02/so-sanh-kien-truc-stateful-vs-stateless.html)
 - [macOS có phải UNIX hay không? (2024-01-28)](https://manhhomienbienthuy.github.io/2024/01/28/macos-co-phai-unix-hay-khong.html)
-- [So sánh: CSS-in-JS vs CSS module (2024-01-18)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [So sánh: CSS-in-JS vs CSS module (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
 - [Bí ẩn layout QWERTY (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
 - [Lambda trong Python (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
 - [HTTP/3 – giao thức thế hệ mới có gì hot? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
@@ -40,7 +41,6 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 - [Ghi log cho ứng dụng Node.js (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
 - [Sơ lược lịch sử ngành lập trình (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/09/14/so-luoc-lich-su-nganh-lap-trinh.html)
 - [Cài Linux (dual boot) lên máy MacBook Pro (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
-- [Screen Saver có giúp “save” màn hình? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/08/23/screen-saver-co-giup-save-man-hinh.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -131,7 +131,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa vừa, nhiệt độ **20.93°C**, độ ẩm **87%**, cảm giác như **21.35°C**.
+Hiện tại, trời mưa vừa, nhiệt độ **20.92°C**, độ ẩm **87%**, cảm giác như **21.34°C**.
 
 Nhiệt độ thấp nhất là **20.55°C** và cao nhất là **21.71°C**
 
@@ -141,4 +141,4 @@ Hôm nay mặt trời mọc lúc **04:24** và lặn lúc **18:56**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 13:44:38 GMT+9 Thứ Ba, 10 tháng 6, 2025
+Lần cập nhật gần nhất lúc 14:39:16 GMT+9 Thứ Ba, 10 tháng 6, 2025
