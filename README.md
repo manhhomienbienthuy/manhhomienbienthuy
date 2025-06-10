@@ -4,7 +4,7 @@ Rất vui vì bạn ghé thăm trang web này.
 
 Tôi là manhhomienbienthuy, nickname khác là naa.
 
-Tôi là một full stack developer, hiện đang sinh sống và làm việc tại Nhật Bản.
+Tôi là một lập trình viên, hiện đang sinh sống và làm việc tại Nhật Bản.
 
 Đây là thế giới của tôi, chào mừng đến với thế giới của tôi...
 
@@ -122,6 +122,7 @@ Tôi là một full stack developer, hiện đang sinh sống và làm việc t�
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Redmine](https://img.shields.io/badge/Redmine-B32024.svg?style=for-the-badge&logo=redmine&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
@@ -141,4 +142,4 @@ Hôm nay mặt trời mọc lúc **04:24** và lặn lúc **18:56**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 14:39:16 GMT+9 Thứ Ba, 10 tháng 6, 2025
+Lần cập nhật gần nhất lúc 14:41:18 GMT+9 Thứ Ba, 10 tháng 6, 2025
