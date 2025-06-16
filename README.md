@@ -31,16 +31,16 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết được chỉnh sửa gần đây
 
-- [So sánh: CSS-in-JS vs CSS module (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
+- [So sánh: CSS-in-JS vs CSS module (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
+- [Ghi log cho ứng dụng Node.js (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
+- [Cài Linux (dual boot) lên máy MacBook Pro (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
 - [Bí ẩn layout QWERTY (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
 - [Lambda trong Python (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
 - [HTTP/3 – giao thức thế hệ mới có gì hot? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
 - [Giới thiệu ESNI, DoT & DoH (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
 - [Khắc phục lỗi phím tắt ⌘ + \[ của Visual Studio Code trên macOS (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/10/24/khac-phuc-loi-phim-tat-cua-visual-studio-code-tren-macos.html)
 - [Node.js: Patterns & best practices (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/10/10/nodejs-patterns-best-practices.html)
-- [Ghi log cho ứng dụng Node.js (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
 - [Sơ lược lịch sử ngành lập trình (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/09/14/so-luoc-lich-su-nganh-lap-trinh.html)
-- [Cài Linux (dual boot) lên máy MacBook Pro (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -132,9 +132,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **29.67°C**, độ ẩm **65%**, cảm giác như **33.18°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **29.82°C**, độ ẩm **63%**, cảm giác như **33.08°C**.
 
-Nhiệt độ thấp nhất là **27.99°C** và cao nhất là **30.61°C**
+Nhiệt độ thấp nhất là **27.9°C** và cao nhất là **30.57°C**
 
 Hôm nay mặt trời mọc lúc **04:24** và lặn lúc **18:59**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **04:24** và lặn lúc **18:59**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 16:37:00 GMT+9 Thứ Hai, 16 tháng 6, 2025
+Lần cập nhật gần nhất lúc 17:45:32 GMT+9 Thứ Hai, 16 tháng 6, 2025
