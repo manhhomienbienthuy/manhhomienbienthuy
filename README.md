@@ -31,6 +31,8 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [Algorithm: quy hoạch động (2025-06-24T00:53:41+00:00)](https://manhhomienbienthuy.github.io/2017/08/24/algorithm-quy-hoach-dong.html)
+- [Algorithm: Định lý Sprague – Grundy (2025-06-24T00:53:41+00:00)](https://manhhomienbienthuy.github.io/2017/05/02/algorithm-dinh-ly-sprague-grundy.html)
 - [So sánh: CSS-in-JS vs CSS module (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
 - [Ghi log cho ứng dụng Node.js (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
 - [Cài Linux (dual boot) lên máy MacBook Pro (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
@@ -39,8 +41,6 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [HTTP/3 – giao thức thế hệ mới có gì hot? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
 - [Giới thiệu ESNI, DoT & DoH (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
 - [Khắc phục lỗi phím tắt ⌘ + \[ của Visual Studio Code trên macOS (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/10/24/khac-phuc-loi-phim-tat-cua-visual-studio-code-tren-macos.html)
-- [Node.js: Patterns & best practices (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/10/10/nodejs-patterns-best-practices.html)
-- [Sơ lược lịch sử ngành lập trình (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/09/14/so-luoc-lich-su-nganh-lap-trinh.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -130,11 +130,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/10d@2x.png)
+![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mưa cường độ nặng, nhiệt độ **26.33°C**, độ ẩm **75%**, cảm giác như **26.33°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **28.49°C**, độ ẩm **72%**, cảm giác như **31.97°C**.
 
-Nhiệt độ thấp nhất là **24.57°C** và cao nhất là **27.26°C**
+Nhiệt độ thấp nhất là **26.99°C** và cao nhất là **28.93°C**
 
 Hôm nay mặt trời mọc lúc **04:26** và lặn lúc **19:01**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **04:26** và lặn lúc **19:01**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 08:32:02 GMT+9 Thứ Ba, 24 tháng 6, 2025
+Lần cập nhật gần nhất lúc 11:23:27 GMT+9 Thứ Ba, 24 tháng 6, 2025
