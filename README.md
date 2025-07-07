@@ -18,6 +18,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
+- [Mô hình ngôn ngữ lớn (LLM): đột phá trong Generative AI (2025-07-07)](https://manhhomienbienthuy.github.io/2025/07/07/mo-hinh-ngon-ngu-lon-llm-dot-pha-trong-generative-ai.html)
 - [Domain-Driven Design (DDD): khái niệm, nguyên tắc và ứng dụng (2025-06-10)](https://manhhomienbienthuy.github.io/2025/06/10/domain-driven-design-ddd-khai-niem-nguyen-tac-va-ung-dung.html)
 - [Hiểu về meta programming (2025-05-14)](https://manhhomienbienthuy.github.io/2025/05/14/hieu-ve-meta-programming.html)
 - [BFF: Backends For Frontends (2025-04-01)](https://manhhomienbienthuy.github.io/2025/04/01/bff-backends-for-frontends.html)
@@ -27,7 +28,6 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Tính toán song song trong Node.js (2024-06-18)](https://manhhomienbienthuy.github.io/2024/06/18/tinh-toan-song-song-trong-nodejs.html)
 - [Giới thiệu service worker (2024-05-31)](https://manhhomienbienthuy.github.io/2024/05/31/gioi-thieu-service-worker.html)
 - [So sánh: kiến trúc stateful vs stateless (2024-02-02)](https://manhhomienbienthuy.github.io/2024/02/02/so-sanh-kien-truc-stateful-vs-stateless.html)
-- [macOS có phải UNIX hay không? (2024-01-28)](https://manhhomienbienthuy.github.io/2024/01/28/macos-co-phai-unix-hay-khong.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -36,11 +36,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [So sánh: CSS-in-JS vs CSS module (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
 - [Ghi log cho ứng dụng Node.js (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
 - [Cài Linux (dual boot) lên máy MacBook Pro (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
+- [macOS có phải UNIX hay không? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2024/01/28/macos-co-phai-unix-hay-khong.html)
 - [Bí ẩn layout QWERTY (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
 - [Lambda trong Python (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
 - [HTTP/3 – giao thức thế hệ mới có gì hot? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
 - [Giới thiệu ESNI, DoT & DoH (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/06/gioi-thieu-esni-dot-doh.html)
-- [Khắc phục lỗi phím tắt ⌘ + \[ của Visual Studio Code trên macOS (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/10/24/khac-phuc-loi-phim-tat-cua-visual-studio-code-tren-macos.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -130,11 +130,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/03d@2x.png)
+![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây rải rác, nhiệt độ **34.98°C**, độ ẩm **50%**, cảm giác như **40.63°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **34.85°C**, độ ẩm **52%**, cảm giác như **41.11°C**.
 
-Nhiệt độ thấp nhất là **33.99°C** và cao nhất là **36.24°C**
+Nhiệt độ thấp nhất là **32.9°C** và cao nhất là **35.19°C**
 
 Hôm nay mặt trời mọc lúc **04:31** và lặn lúc **19:00**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **04:31** và lặn lúc **19:00**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 14:41:52 GMT+9 Thứ Hai, 7 tháng 7, 2025
+Lần cập nhật gần nhất lúc 15:49:07 GMT+9 Thứ Hai, 7 tháng 7, 2025
