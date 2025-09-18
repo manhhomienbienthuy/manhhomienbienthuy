@@ -31,6 +31,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [Làm cha mẹ thời nay: vừa nuôi con vừa né “flex” (2025-09-18T01:58:26+00:00)](https://manhhomienbienthuy.github.io/2024/03/03/lam-cha-me-thoi-nay-vua-nuoi-con-vua-ne-flex.html)
 - [Algorithm: quy hoạch động (2025-06-24T00:53:41+00:00)](https://manhhomienbienthuy.github.io/2017/08/24/algorithm-quy-hoach-dong.html)
 - [Algorithm: Định lý Sprague – Grundy (2025-06-24T00:53:41+00:00)](https://manhhomienbienthuy.github.io/2017/05/02/algorithm-dinh-ly-sprague-grundy.html)
 - [So sánh: CSS-in-JS vs CSS module (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
@@ -40,7 +41,6 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [macOS có phải UNIX hay không? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2024/01/28/macos-co-phai-unix-hay-khong.html)
 - [Bí ẩn layout QWERTY (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
 - [Lambda trong Python (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
-- [HTTP/3 – giao thức thế hệ mới có gì hot? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/14/http3-giao-thuc-the-he-moi-co-gi-hot.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -132,9 +132,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **33.44°C**, độ ẩm **54%**, cảm giác như **38.49°C**.
+Hiện tại, trời mây cụm, nhiệt độ **34.46°C**, độ ẩm **52%**, cảm giác như **40.16°C**.
 
-Nhiệt độ thấp nhất là **31.49°C** và cao nhất là **34.48°C**
+Nhiệt độ thấp nhất là **32.25°C** và cao nhất là **35.05°C**
 
 Hôm nay mặt trời mọc lúc **05:25** và lặn lúc **17:45**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **05:25** và lặn lúc **17:45**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 10:59:33 GMT+9 Thứ Năm, 18 tháng 9, 2025
+Lần cập nhật gần nhất lúc 12:07:12 GMT+9 Thứ Năm, 18 tháng 9, 2025
