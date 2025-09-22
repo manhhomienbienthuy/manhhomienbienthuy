@@ -31,16 +31,16 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết được chỉnh sửa gần đây
 
-- [Làm cha mẹ thời nay: vừa nuôi con vừa né “flex” (2025-09-18T01:58:26+00:00)](https://manhhomienbienthuy.github.io/2024/03/03/lam-cha-me-thoi-nay-vua-nuoi-con-vua-ne-flex.html)
-- [Algorithm: quy hoạch động (2025-06-24T00:53:41+00:00)](https://manhhomienbienthuy.github.io/2017/08/24/algorithm-quy-hoach-dong.html)
-- [Algorithm: Định lý Sprague – Grundy (2025-06-24T00:53:41+00:00)](https://manhhomienbienthuy.github.io/2017/05/02/algorithm-dinh-ly-sprague-grundy.html)
-- [So sánh: CSS-in-JS vs CSS module (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2024/01/18/so-sanh-css-in-js-vs-css-module.html)
-- [Ghi log cho ứng dụng Node.js (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2023/09/25/ghi-log-cho-ung-dung-nodejs.html)
-- [Cài Linux (dual boot) lên máy MacBook Pro (2025-06-16T08:28:38+00:00)](https://manhhomienbienthuy.github.io/2023/09/04/cai-linux-dual-boot-len-may-macbook-pro.html)
-- [So sánh: kiến trúc stateful vs stateless (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2024/02/02/so-sanh-kien-truc-stateful-vs-stateless.html)
-- [macOS có phải UNIX hay không? (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2024/01/28/macos-co-phai-unix-hay-khong.html)
-- [Bí ẩn layout QWERTY (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
-- [Lambda trong Python (2025-06-05T09:22:54+00:00)](https://manhhomienbienthuy.github.io/2023/11/30/lambda-trong-python.html)
+- [Làm cha mẹ thời nay: vừa nuôi con vừa né “flex” (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2024/03/03/lam-cha-me-thoi-nay-vua-nuoi-con-vua-ne-flex.html)
+- [Lần đầu tiên nhảy việc ở Nhật (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2021/07/08/lan-dau-tien-nhay-viec-o-nhat.html)
+- [Du lịch Quy Nhơn – chuyến đi bão táp (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2020/01/21/du-lich-quy-nhon-chuyen-di-bao-tap.html)
+- [Du lịch Phú Yên (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2019/01/28/du-lich-phu-yen.html)
+- [Lần đầu du lịch nước ngoài: Singapore (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2018/10/08/lan-dau-du-lich-nuoc-ngoai-singapore.html)
+- [Du lịch cố đô Huế (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2017/04/04/du-lich-co-do-hue.html)
+- [Đi chơi Tam Đảo (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2017/01/13/di-choi-tam-dao.html)
+- [Du lịch Phú Quốc (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2015/10/12/du-lich-phu-quoc.html)
+- [Du lịch Đà Nẵng (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2014/09/30/du-lich-da-nang.html)
+- [Học kỳ mới (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2013/04/13/hoc-ky-moi.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -132,9 +132,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **25.09°C**, độ ẩm **49%**, cảm giác như **24.93°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **24.58°C**, độ ẩm **48%**, cảm giác như **24.35°C**.
 
-Nhiệt độ thấp nhất là **23.94°C** và cao nhất là **26.19°C**
+Nhiệt độ thấp nhất là **23.94°C** và cao nhất là **26.24°C**
 
 Hôm nay mặt trời mọc lúc **05:28** và lặn lúc **17:39**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **05:28** và lặn lúc **17:39**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 15:46:28 GMT+9 Thứ Hai, 22 tháng 9, 2025
+Lần cập nhật gần nhất lúc 16:32:25 GMT+9 Thứ Hai, 22 tháng 9, 2025
