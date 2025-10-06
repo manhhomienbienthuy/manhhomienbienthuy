@@ -18,6 +18,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
+- [Hiểu sâu về RAG (Retrieval-Augmented Generation): Giải pháp AI tiên tiến cho doanh nghiệp (2025-10-06)](https://manhhomienbienthuy.github.io/2025/10/06/hieu-sau-ve-rag-retrieval-augmented-generation-giai-phap-ai-tien-tien-cho-doanh-nghiep.html)
 - [Design pattern có thật sự thần thánh? (2025-09-11)](https://manhhomienbienthuy.github.io/2025/09/11/design-pattern-co-that-su-than-thanh.html)
 - [Mô hình ngôn ngữ lớn (LLM): đột phá trong Generative AI (2025-07-07)](https://manhhomienbienthuy.github.io/2025/07/07/mo-hinh-ngon-ngu-lon-llm-dot-pha-trong-generative-ai.html)
 - [Domain-Driven Design (DDD): khái niệm, nguyên tắc và ứng dụng (2025-06-10)](https://manhhomienbienthuy.github.io/2025/06/10/domain-driven-design-ddd-khai-niem-nguyen-tac-va-ung-dung.html)
@@ -27,7 +28,6 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Linux: 3 lệnh quan trọng để xử lý dữ liệu text (2024-10-25)](https://manhhomienbienthuy.github.io/2024/10/25/linux-3-lenh-quan-trong-de-xu-ly-du-lieu-text.html)
 - [Bash: thực thi lệnh có chứa dấu cách được lưu trong biến (2024-07-12)](https://manhhomienbienthuy.github.io/2024/07/12/bash-thuc-thi-lenh-co-chua-dau-cach-duoc-luu-trong-bien.html)
 - [Tính toán song song trong Node.js (2024-06-18)](https://manhhomienbienthuy.github.io/2024/06/18/tinh-toan-song-song-trong-nodejs.html)
-- [Giới thiệu service worker (2024-05-31)](https://manhhomienbienthuy.github.io/2024/05/31/gioi-thieu-service-worker.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -132,9 +132,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **27.38°C**, độ ẩm **57%**, cảm giác như **28.32°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **27.2°C**, độ ẩm **67%**, cảm giác như **28.93°C**.
 
-Nhiệt độ thấp nhất là **27.38°C** và cao nhất là **27.38°C**
+Nhiệt độ thấp nhất là **26.72°C** và cao nhất là **28.19°C**
 
 Hôm nay mặt trời mọc lúc **05:39** và lặn lúc **17:18**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **05:39** và lặn lúc **17:18**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 12:44:26 GMT+9 Thứ Hai, 6 tháng 10, 2025
+Lần cập nhật gần nhất lúc 13:37:20 GMT+9 Thứ Hai, 6 tháng 10, 2025
