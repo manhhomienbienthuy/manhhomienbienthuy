@@ -18,6 +18,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
+- [AI Agent là gì? Cách xây dựng và huấn luyện một hệ thống thông minh (2025-11-12)](https://manhhomienbienthuy.github.io/2025/11/12/ai-agent-la-gi-cach-xay-dung-va-huan-luyen-mot-he-thong-thong-minh.html)
 - [Hiểu sâu về RAG (Retrieval-Augmented Generation): Giải pháp AI tiên tiến cho doanh nghiệp (2025-10-06)](https://manhhomienbienthuy.github.io/2025/10/06/hieu-sau-ve-rag-retrieval-augmented-generation-giai-phap-ai-tien-tien-cho-doanh-nghiep.html)
 - [Design pattern có thật sự thần thánh? (2025-09-11)](https://manhhomienbienthuy.github.io/2025/09/11/design-pattern-co-that-su-than-thanh.html)
 - [Mô hình ngôn ngữ lớn (LLM): đột phá trong Generative AI (2025-07-07)](https://manhhomienbienthuy.github.io/2025/07/07/mo-hinh-ngon-ngu-lon-llm-dot-pha-trong-generative-ai.html)
@@ -27,7 +28,6 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Giới hạn bộ nhớ trong Node.js (2025-03-05)](https://manhhomienbienthuy.github.io/2025/03/05/gioi-han-bo-nho-trong-nodejs.html)
 - [Linux: 3 lệnh quan trọng để xử lý dữ liệu text (2024-10-25)](https://manhhomienbienthuy.github.io/2024/10/25/linux-3-lenh-quan-trong-de-xu-ly-du-lieu-text.html)
 - [Bash: thực thi lệnh có chứa dấu cách được lưu trong biến (2024-07-12)](https://manhhomienbienthuy.github.io/2024/07/12/bash-thuc-thi-lenh-co-chua-dau-cach-duoc-luu-trong-bien.html)
-- [Tính toán song song trong Node.js (2024-06-18)](https://manhhomienbienthuy.github.io/2024/06/18/tinh-toan-song-song-trong-nodejs.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -130,11 +130,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/01d@2x.png)
+![weather](https://openweathermap.org/img/wn/03d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **11.91°C**, độ ẩm **51%**, cảm giác như **10.49°C**.
+Hiện tại, trời mây rải rác, nhiệt độ **13.97°C**, độ ẩm **40%**, cảm giác như **12.47°C**.
 
-Nhiệt độ thấp nhất là **11.49°C** và cao nhất là **12.9°C**
+Nhiệt độ thấp nhất là **12.83°C** và cao nhất là **14.48°C**
 
 Hôm nay mặt trời mọc lúc **06:14** và lặn lúc **16:36**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **06:14** và lặn lúc **16:36**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 08:31:11 GMT+9 Thứ Tư, 12 tháng 11, 2025
+Lần cập nhật gần nhất lúc 11:16:18 GMT+9 Thứ Tư, 12 tháng 11, 2025
