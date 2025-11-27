@@ -134,7 +134,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 Hiện tại, trời bầu trời quang đãng, nhiệt độ **12.73°C**, độ ẩm **87%**, cảm giác như **12.33°C**.
 
-Nhiệt độ thấp nhất là **12.23°C** và cao nhất là **13.94°C**
+Nhiệt độ thấp nhất là **12.23°C** và cao nhất là **14.03°C**
 
 Hôm nay mặt trời mọc lúc **06:29** và lặn lúc **16:28**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **06:29** và lặn lúc **16:28**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 22:45:10 GMT+9 Thứ Năm, 27 tháng 11, 2025
+Lần cập nhật gần nhất lúc 23:39:50 GMT+9 Thứ Năm, 27 tháng 11, 2025
