@@ -18,8 +18,8 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
-- [AI Agent là gì? Cách xây dựng và huấn luyện một hệ thống thông minh (2025-11-12)](https://manhhomienbienthuy.github.io/2025/11/12/ai-agent-la-gi-cach-xay-dung-va-huan-luyen-mot-he-thong-thong-minh.html)
-- [Hiểu sâu về RAG (Retrieval-Augmented Generation): Giải pháp AI tiên tiến cho doanh nghiệp (2025-10-06)](https://manhhomienbienthuy.github.io/2025/10/06/hieu-sau-ve-rag-retrieval-augmented-generation-giai-phap-ai-tien-tien-cho-doanh-nghiep.html)
+- [AI Agent là gì? Cách xây dựng một hệ thống thông minh (2025-11-12)](https://manhhomienbienthuy.github.io/2025/11/12/ai-agent-la-gi-cach-xay-dung-mot-he-thong-thong-minh.html)
+- [Hiểu sâu về RAG: Giải pháp AI tiên tiến cho doanh nghiệp (2025-10-06)](https://manhhomienbienthuy.github.io/2025/10/06/hieu-sau-ve-rag-giai-phap-ai-tien-tien-cho-doanh-nghiep.html)
 - [Design pattern có thật sự thần thánh? (2025-09-11)](https://manhhomienbienthuy.github.io/2025/09/11/design-pattern-co-that-su-than-thanh.html)
 - [Mô hình ngôn ngữ lớn (LLM): đột phá trong Generative AI (2025-07-07)](https://manhhomienbienthuy.github.io/2025/07/07/mo-hinh-ngon-ngu-lon-llm-dot-pha-trong-generative-ai.html)
 - [Domain-Driven Design (DDD): khái niệm, nguyên tắc và ứng dụng (2025-06-10)](https://manhhomienbienthuy.github.io/2025/06/10/domain-driven-design-ddd-khai-niem-nguyen-tac-va-ung-dung.html)
@@ -130,11 +130,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/03n@2x.png)
+![weather](https://openweathermap.org/img/wn/10n@2x.png)
 
-Hiện tại, trời mây rải rác, nhiệt độ **11.58°C**, độ ẩm **84%**, cảm giác như **10.99°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **11.15°C**, độ ẩm **81%**, cảm giác như **10.44°C**.
 
-Nhiệt độ thấp nhất là **11.12°C** và cao nhất là **12.93°C**
+Nhiệt độ thấp nhất là **10.57°C** và cao nhất là **12.26°C**
 
 Hôm nay mặt trời mọc lúc **06:34** và lặn lúc **16:27**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **06:34** và lặn lúc **16:27**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 16:37:25 GMT+9 Thứ Tư, 3 tháng 12, 2025
+Lần cập nhật gần nhất lúc 17:46:47 GMT+9 Thứ Tư, 3 tháng 12, 2025
