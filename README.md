@@ -18,6 +18,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
+- [Năm 2025 nhìn lại (2025-12-31)](https://manhhomienbienthuy.github.io/2025/12/31/nam-2025-nhin-lai.html)
 - [AI Agent là gì? Cách xây dựng một hệ thống thông minh (2025-11-12)](https://manhhomienbienthuy.github.io/2025/11/12/ai-agent-la-gi-cach-xay-dung-mot-he-thong-thong-minh.html)
 - [Hiểu sâu về RAG: Giải pháp AI tiên tiến cho doanh nghiệp (2025-10-06)](https://manhhomienbienthuy.github.io/2025/10/06/hieu-sau-ve-rag-giai-phap-ai-tien-tien-cho-doanh-nghiep.html)
 - [Design pattern có thật sự thần thánh? (2025-09-11)](https://manhhomienbienthuy.github.io/2025/09/11/design-pattern-co-that-su-than-thanh.html)
@@ -27,7 +28,6 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [BFF: Backends For Frontends (2025-04-01)](https://manhhomienbienthuy.github.io/2025/04/01/bff-backends-for-frontends.html)
 - [Giới hạn bộ nhớ trong Node.js (2025-03-05)](https://manhhomienbienthuy.github.io/2025/03/05/gioi-han-bo-nho-trong-nodejs.html)
 - [Linux: 3 lệnh quan trọng để xử lý dữ liệu text (2024-10-25)](https://manhhomienbienthuy.github.io/2024/10/25/linux-3-lenh-quan-trong-de-xu-ly-du-lieu-text.html)
-- [Bash: thực thi lệnh có chứa dấu cách được lưu trong biến (2024-07-12)](https://manhhomienbienthuy.github.io/2024/07/12/bash-thuc-thi-lenh-co-chua-dau-cach-duoc-luu-trong-bien.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -130,11 +130,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/01d@2x.png)
+![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **8.34°C**, độ ẩm **57%**, cảm giác như **5.93°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **10.38°C**, độ ẩm **42%**, cảm giác như **8.57°C**.
 
-Nhiệt độ thấp nhất là **6.23°C** và cao nhất là **9.45°C**
+Nhiệt độ thấp nhất là **9.99°C** và cao nhất là **11.49°C**
 
 Hôm nay mặt trời mọc lúc **06:51** và lặn lúc **16:36**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **06:51** và lặn lúc **16:36**.
 
 Copyright © 2022-2025 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 08:34:18 GMT+9 Thứ Tư, 31 tháng 12, 2025
+Lần cập nhật gần nhất lúc 11:26:53 GMT+9 Thứ Tư, 31 tháng 12, 2025
