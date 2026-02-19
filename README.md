@@ -18,6 +18,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
+- [Kỳ đánh giá giữa năm – và những ngày tôi chỉ muốn trốn đi một chút (2026-02-19)](https://manhhomienbienthuy.github.io/2026/02/19/ky-danh-gia-giua-nam-va-nhung-ngay-toi-chi-muon-tron-di-mot-chut.html)
 - [Tại sao các lệnh UNIX và Unix-like như rm, mv không hỏi xác nhận? (2026-01-15)](https://manhhomienbienthuy.github.io/2026/01/15/tai-sao-cac-lenh-unix-va-unix-like-nhu-rm-mv-khong-hoi-xac-nhan.html)
 - [Năm 2025 nhìn lại (2025-12-31)](https://manhhomienbienthuy.github.io/2025/12/31/nam-2025-nhin-lai.html)
 - [AI Agent là gì? Cách xây dựng một hệ thống thông minh (2025-11-12)](https://manhhomienbienthuy.github.io/2025/11/12/ai-agent-la-gi-cach-xay-dung-mot-he-thong-thong-minh.html)
@@ -27,7 +28,6 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Domain-Driven Design (DDD): khái niệm, nguyên tắc và ứng dụng (2025-06-10)](https://manhhomienbienthuy.github.io/2025/06/10/domain-driven-design-ddd-khai-niem-nguyen-tac-va-ung-dung.html)
 - [Hiểu về meta programming (2025-05-14)](https://manhhomienbienthuy.github.io/2025/05/14/hieu-ve-meta-programming.html)
 - [BFF: Backends For Frontends (2025-04-01)](https://manhhomienbienthuy.github.io/2025/04/01/bff-backends-for-frontends.html)
-- [Giới hạn bộ nhớ trong Node.js (2025-03-05)](https://manhhomienbienthuy.github.io/2025/03/05/gioi-han-bo-nho-trong-nodejs.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -132,9 +132,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **4.36°C**, độ ẩm **32%**, cảm giác như **3.44°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **9.56°C**, độ ẩm **25%**, cảm giác như **9.56°C**.
 
-Nhiệt độ thấp nhất là **3.9°C** và cao nhất là **5.68°C**
+Nhiệt độ thấp nhất là **7.99°C** và cao nhất là **10.57°C**
 
 Hôm nay mặt trời mọc lúc **06:24** và lặn lúc **17:25**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **06:24** và lặn lúc **17:25**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 08:48:20 GMT+9 Thứ Năm, 19 tháng 2, 2026
+Lần cập nhật gần nhất lúc 12:17:59 GMT+9 Thứ Năm, 19 tháng 2, 2026
