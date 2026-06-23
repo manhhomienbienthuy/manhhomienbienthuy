@@ -18,6 +18,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
+- [Thuật toán: Ternary Search (2026-06-23)](https://manhhomienbienthuy.github.io/2026/06/23/thuat-toan-ternary-search.html)
 - [Codeforces Round #1091 (Div. 2) write-up (2026-04-10)](https://manhhomienbienthuy.github.io/2026/04/10/codeforces-round-1091-div-2-write-up.html)
 - [Code “thối” hình thành như thế nào? (2026-03-31)](https://manhhomienbienthuy.github.io/2026/03/31/code-thoi-hinh-thanh-nhu-the-nao.html)
 - [Kỳ đánh giá giữa năm – và những ngày tôi chỉ muốn trốn đi một chút (2026-02-19)](https://manhhomienbienthuy.github.io/2026/02/19/ky-danh-gia-giua-nam-va-nhung-ngay-toi-chi-muon-tron-di-mot-chut.html)
@@ -27,11 +28,10 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Hiểu sâu về RAG: Giải pháp AI tiên tiến cho doanh nghiệp (2025-10-06)](https://manhhomienbienthuy.github.io/2025/10/06/hieu-sau-ve-rag-giai-phap-ai-tien-tien-cho-doanh-nghiep.html)
 - [Design pattern có thật sự thần thánh? (2025-09-11)](https://manhhomienbienthuy.github.io/2025/09/11/design-pattern-co-that-su-than-thanh.html)
 - [Mô hình ngôn ngữ lớn (LLM): đột phá trong Generative AI (2025-07-07)](https://manhhomienbienthuy.github.io/2025/07/07/mo-hinh-ngon-ngu-lon-llm-dot-pha-trong-generative-ai.html)
-- [Domain-Driven Design (DDD): khái niệm, nguyên tắc và ứng dụng (2025-06-10)](https://manhhomienbienthuy.github.io/2025/06/10/domain-driven-design-ddd-khai-niem-nguyen-tac-va-ung-dung.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
-- [Luyện kỹ năng lập trình (và các kỹ năng khác) với Python Challenge (2026-04-10T06:30:18+00:00)](https://manhhomienbienthuy.github.io/2017/09/24/luyen-ky-nang-lap-trinh-va-cac-ky-nang-khac-voi-python-challenge.html)
+- [Luyện kỹ năng lập trình (và các kỹ năng khác) với Python Challenge (2026-06-23T03:51:17+00:00)](https://manhhomienbienthuy.github.io/2017/09/24/luyen-ky-nang-lap-trinh-va-cac-ky-nang-khac-voi-python-challenge.html)
 - [KSNCTF write up (2026-04-10T06:30:18+00:00)](https://manhhomienbienthuy.github.io/2015/07/30/ksnctf-write-up.html)
 - [Làm cha mẹ thời nay: vừa nuôi con vừa né “flex” (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2024/03/03/lam-cha-me-thoi-nay-vua-nuoi-con-vua-ne-flex.html)
 - [Lần đầu tiên nhảy việc ở Nhật (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2021/07/08/lan-dau-tien-nhay-viec-o-nhat.html)
@@ -132,9 +132,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **22.39°C**, độ ẩm **63%**, cảm giác như **22.33°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **25.2°C**, độ ẩm **57%**, cảm giác như **25.26°C**.
 
-Nhiệt độ thấp nhất là **21.71°C** và cao nhất là **22.79°C**
+Nhiệt độ thấp nhất là **23.38°C** và cao nhất là **26.26°C**
 
 Hôm nay mặt trời mọc lúc **04:25** và lặn lúc **19:00**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **04:25** và lặn lúc **19:00**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 08:45:44 GMT+9 Thứ Ba, 23 tháng 6, 2026
+Lần cập nhật gần nhất lúc 13:33:40 GMT+9 Thứ Ba, 23 tháng 6, 2026
