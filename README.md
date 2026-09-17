@@ -31,6 +31,8 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [Sơ lược về lịch sử bàn phím (2026-09-17T12:01:20+00:00)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2026-09-17T12:01:20+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Luyện kỹ năng lập trình (và các kỹ năng khác) với Python Challenge (2026-06-23T03:51:17+00:00)](https://manhhomienbienthuy.github.io/2017/09/24/luyen-ky-nang-lap-trinh-va-cac-ky-nang-khac-voi-python-challenge.html)
 - [KSNCTF write up (2026-04-10T06:30:18+00:00)](https://manhhomienbienthuy.github.io/2015/07/30/ksnctf-write-up.html)
 - [Làm cha mẹ thời nay: vừa nuôi con vừa né “flex” (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2024/03/03/lam-cha-me-thoi-nay-vua-nuoi-con-vua-ne-flex.html)
@@ -39,8 +41,6 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Du lịch Phú Yên (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2019/01/28/du-lich-phu-yen.html)
 - [Lần đầu du lịch nước ngoài: Singapore (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2018/10/08/lan-dau-du-lich-nuoc-ngoai-singapore.html)
 - [Du lịch cố đô Huế (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2017/04/04/du-lich-co-do-hue.html)
-- [Đi chơi Tam Đảo (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2017/01/13/di-choi-tam-dao.html)
-- [Du lịch Phú Quốc (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2015/10/12/du-lich-phu-quoc.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -130,11 +130,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/03d@2x.png)
+![weather](https://openweathermap.org/img/wn/02n@2x.png)
 
-Hiện tại, trời mây rải rác, nhiệt độ **25.7°C**, độ ẩm **61%**, cảm giác như **25.92°C**.
+Hiện tại, trời mây thưa, nhiệt độ **21.04°C**, độ ẩm **78%**, cảm giác như **21.24°C**.
 
-Nhiệt độ thấp nhất là **23.94°C** và cao nhất là **26.19°C**
+Nhiệt độ thấp nhất là **20.12°C** và cao nhất là **22.37°C**
 
 Hôm nay mặt trời mọc lúc **05:24** và lặn lúc **17:47**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **05:24** và lặn lúc **17:47**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 16:48:12 GMT+9 Thứ Năm, 17 tháng 9, 2026
+Lần cập nhật gần nhất lúc 22:35:21 GMT+9 Thứ Năm, 17 tháng 9, 2026
