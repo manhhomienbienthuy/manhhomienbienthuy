@@ -31,16 +31,16 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết được chỉnh sửa gần đây
 
-- [Sơ lược về lịch sử bàn phím (2026-09-17T12:01:20+00:00)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2026-09-17T12:01:20+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
+- [Tính toán song song trong Node.js (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2024/06/18/tinh-toan-song-song-trong-nodejs.html)
+- [Bí ẩn layout QWERTY (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
+- [Sơ lược về lịch sử bàn phím (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
+- [Hóa ra “Enter” và “Return” lại khác nhau (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
+- [Test Driven Development (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2015/12/03/test-driven-development.html)
 - [Luyện kỹ năng lập trình (và các kỹ năng khác) với Python Challenge (2026-06-23T03:51:17+00:00)](https://manhhomienbienthuy.github.io/2017/09/24/luyen-ky-nang-lap-trinh-va-cac-ky-nang-khac-voi-python-challenge.html)
 - [KSNCTF write up (2026-04-10T06:30:18+00:00)](https://manhhomienbienthuy.github.io/2015/07/30/ksnctf-write-up.html)
 - [Làm cha mẹ thời nay: vừa nuôi con vừa né “flex” (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2024/03/03/lam-cha-me-thoi-nay-vua-nuoi-con-vua-ne-flex.html)
 - [Lần đầu tiên nhảy việc ở Nhật (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2021/07/08/lan-dau-tien-nhay-viec-o-nhat.html)
-- [Du lịch Quy Nhơn – chuyến đi bão táp (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2020/01/21/du-lich-quy-nhon-chuyen-di-bao-tap.html)
-- [Du lịch Phú Yên (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2019/01/28/du-lich-phu-yen.html)
-- [Lần đầu du lịch nước ngoài: Singapore (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2018/10/08/lan-dau-du-lich-nuoc-ngoai-singapore.html)
-- [Du lịch cố đô Huế (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2017/04/04/du-lich-co-do-hue.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -132,9 +132,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **24.02°C**, độ ẩm **63%**, cảm giác như **24.12°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **25.61°C**, độ ẩm **60%**, cảm giác như **25.79°C**.
 
-Nhiệt độ thấp nhất là **22.83°C** và cao nhất là **24.59°C**
+Nhiệt độ thấp nhất là **23.94°C** và cao nhất là **26.24°C**
 
 Hôm nay mặt trời mọc lúc **05:25** và lặn lúc **17:45**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **05:25** và lặn lúc **17:45**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 09:28:09 GMT+9 Thứ Sáu, 18 tháng 9, 2026
+Lần cập nhật gần nhất lúc 15:02:23 GMT+9 Thứ Sáu, 18 tháng 9, 2026
