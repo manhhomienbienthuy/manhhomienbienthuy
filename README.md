@@ -18,6 +18,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
+- [Fenwick Tree: Cấu trúc dữ liệu tôi ước mình được học sớm hơn ở trường (2026-09-19)](https://manhhomienbienthuy.github.io/2026/09/19/fenwick-tree-cau-truc-du-lieu-toi-uoc-minh-duoc-hoc-som-hon-o-truong.html)
 - [Những lỗi “nhỏ nhưng đau” khi dùng C++ trong competitive programming (2026-07-14)](https://manhhomienbienthuy.github.io/2026/07/14/nhung-loi-nho-nhung-dau-khi-dung-c-trong-competitive-programming.html)
 - [Thuật toán: Ternary Search (2026-06-23)](https://manhhomienbienthuy.github.io/2026/06/23/thuat-toan-ternary-search.html)
 - [Codeforces Round #1091 (Div. 2) write-up (2026-04-10)](https://manhhomienbienthuy.github.io/2026/04/10/codeforces-round-1091-div-2-write-up.html)
@@ -27,7 +28,6 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Năm 2025 nhìn lại (2025-12-31)](https://manhhomienbienthuy.github.io/2025/12/31/nam-2025-nhin-lai.html)
 - [AI Agent là gì? Cách xây dựng một hệ thống thông minh (2025-11-12)](https://manhhomienbienthuy.github.io/2025/11/12/ai-agent-la-gi-cach-xay-dung-mot-he-thong-thong-minh.html)
 - [Hiểu sâu về RAG: Giải pháp AI tiên tiến cho doanh nghiệp (2025-10-06)](https://manhhomienbienthuy.github.io/2025/10/06/hieu-sau-ve-rag-giai-phap-ai-tien-tien-cho-doanh-nghiep.html)
-- [Design pattern có thật sự thần thánh? (2025-09-11)](https://manhhomienbienthuy.github.io/2025/09/11/design-pattern-co-that-su-than-thanh.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -130,11 +130,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/04d@2x.png)
+![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **24.13°C**, độ ẩm **69%**, cảm giác như **24.4°C**.
+Hiện tại, trời mưa nhẹ, nhiệt độ **22.86°C**, độ ẩm **92%**, cảm giác như **23.6°C**.
 
-Nhiệt độ thấp nhất là **22.83°C** và cao nhất là **25.01°C**
+Nhiệt độ thấp nhất là **22.19°C** và cao nhất là **23.92°C**
 
 Hôm nay mặt trời mọc lúc **05:26** và lặn lúc **17:44**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **05:26** và lặn lúc **17:44**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 10:17:01 GMT+9 Thứ Bảy, 19 tháng 9, 2026
+Lần cập nhật gần nhất lúc 15:00:44 GMT+9 Thứ Bảy, 19 tháng 9, 2026
