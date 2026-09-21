@@ -18,7 +18,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
-- [Fenwick Tree: Cấu trúc dữ liệu tôi ước mình được học sớm hơn ở trường (2026-09-19)](https://manhhomienbienthuy.github.io/2026/09/19/fenwick-tree-cau-truc-du-lieu-toi-uoc-minh-duoc-hoc-som-hon-o-truong.html)
+- [Fenwick Tree: Cấu trúc dữ liệu tôi ước mình được học sớm hơn (2026-09-19)](https://manhhomienbienthuy.github.io/2026/09/19/fenwick-tree-cau-truc-du-lieu-toi-uoc-minh-duoc-hoc-som-hon.html)
 - [Những lỗi “nhỏ nhưng đau” khi dùng C++ trong competitive programming (2026-07-14)](https://manhhomienbienthuy.github.io/2026/07/14/nhung-loi-nho-nhung-dau-khi-dung-c-trong-competitive-programming.html)
 - [Thuật toán: Ternary Search (2026-06-23)](https://manhhomienbienthuy.github.io/2026/06/23/thuat-toan-ternary-search.html)
 - [Codeforces Round #1091 (Div. 2) write-up (2026-04-10)](https://manhhomienbienthuy.github.io/2026/04/10/codeforces-round-1091-div-2-write-up.html)
@@ -132,9 +132,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/10d@2x.png)
 
-Hiện tại, trời mưa cường độ nặng, nhiệt độ **21.28°C**, độ ẩm **96%**, cảm giác như **21.97°C**.
+Hiện tại, trời mưa cường độ nặng, nhiệt độ **22.25°C**, độ ẩm **96%**, cảm giác như **23.04°C**.
 
-Nhiệt độ thấp nhất là **20.68°C** và cao nhất là **22.19°C**
+Nhiệt độ thấp nhất là **22.23°C** và cao nhất là **23.03°C**
 
 Hôm nay mặt trời mọc lúc **05:27** và lặn lúc **17:41**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **05:27** và lặn lúc **17:41**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 09:18:46 GMT+9 Thứ Hai, 21 tháng 9, 2026
+Lần cập nhật gần nhất lúc 14:07:47 GMT+9 Thứ Hai, 21 tháng 9, 2026
