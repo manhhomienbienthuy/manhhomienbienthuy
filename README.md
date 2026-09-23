@@ -31,11 +31,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2026-09-23T09:51:10+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Tính toán song song trong Node.js (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2024/06/18/tinh-toan-song-song-trong-nodejs.html)
 - [Bí ẩn layout QWERTY (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
 - [Sơ lược về lịch sử bàn phím (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2023/08/15/so-luoc-ve-lich-su-ban-phim.html)
 - [Hóa ra “Enter” và “Return” lại khác nhau (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2023/02/09/hoa-ra-enter-va-return-lai-khac-nhau.html)
-- [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Test Driven Development (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2015/12/03/test-driven-development.html)
 - [Luyện kỹ năng lập trình (và các kỹ năng khác) với Python Challenge (2026-06-23T03:51:17+00:00)](https://manhhomienbienthuy.github.io/2017/09/24/luyen-ky-nang-lap-trinh-va-cac-ky-nang-khac-voi-python-challenge.html)
 - [KSNCTF write up (2026-04-10T06:30:18+00:00)](https://manhhomienbienthuy.github.io/2015/07/30/ksnctf-write-up.html)
@@ -130,11 +130,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/10d@2x.png)
+![weather](https://openweathermap.org/img/wn/04n@2x.png)
 
-Hiện tại, trời mưa vừa, nhiệt độ **19.49°C**, độ ẩm **93%**, cảm giác như **19.92°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **19.24°C**, độ ẩm **94%**, cảm giác như **19.67°C**.
 
-Nhiệt độ thấp nhất là **19.19°C** và cao nhất là **20.38°C**
+Nhiệt độ thấp nhất là **18.9°C** và cao nhất là **20.38°C**
 
 Hôm nay mặt trời mọc lúc **05:29** và lặn lúc **17:38**.
 
@@ -142,4 +142,4 @@ Hôm nay mặt trời mọc lúc **05:29** và lặn lúc **17:38**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 15:05:37 GMT+9 Thứ Tư, 23 tháng 9, 2026
+Lần cập nhật gần nhất lúc 20:50:26 GMT+9 Thứ Tư, 23 tháng 9, 2026
