@@ -44,6 +44,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
+C++	C++	![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -130,11 +131,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/04d@2x.png)
+![weather](https://openweathermap.org/img/wn/10n@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **23.41°C**, độ ẩm **90%**, cảm giác như **24.16°C**.
+Hiện tại, trời mưa vừa, nhiệt độ **22.51°C**, độ ẩm **91%**, cảm giác như **23.19°C**.
 
-Nhiệt độ thấp nhất là **22.79°C** và cao nhất là **25.59°C**
+Nhiệt độ thấp nhất là **21.23°C** và cao nhất là **23.37°C**
 
 Hôm nay mặt trời mọc lúc **05:33** và lặn lúc **17:30**.
 
@@ -142,4 +143,4 @@ Hôm nay mặt trời mọc lúc **05:33** và lặn lúc **17:30**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 16:03:12 GMT+9 Thứ Hai, 28 tháng 9, 2026
+Lần cập nhật gần nhất lúc 22:28:52 GMT+9 Thứ Hai, 28 tháng 9, 2026
