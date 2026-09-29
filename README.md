@@ -10,7 +10,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Liên hệ
 
-[![blog](https://img.shields.io/badge/Website-14A0C4?style=for-the-badge&logo=pelican&logoColor=white)](https://manhhomienbienthuy.github.io/)
+[![blog](https://img.shields.io/badge/Website-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://manhhomienbienthuy.github.io/)
 [![github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/manhhomienbienthuy)
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_naa_4f)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manhhomienbienthuy)
@@ -133,9 +133,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/10n@2x.png)
 
-Hiện tại, trời mưa cường độ nặng, nhiệt độ **17.5°C**, độ ẩm **94%**, cảm giác như **17.76°C**.
+Hiện tại, trời mưa cường độ nặng, nhiệt độ **17.48°C**, độ ẩm **97%**, cảm giác như **17.82°C**.
 
-Nhiệt độ thấp nhất là **16.79°C** và cao nhất là **18.37°C**
+Nhiệt độ thấp nhất là **17.23°C** và cao nhất là **18.37°C**
 
 Hôm nay mặt trời mọc lúc **05:34** và lặn lúc **17:27**.
 
@@ -143,4 +143,4 @@ Hôm nay mặt trời mọc lúc **05:34** và lặn lúc **17:27**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 00:59:05 GMT+9 Thứ Tư, 30 tháng 9, 2026
+Lần cập nhật gần nhất lúc 01:34:18 GMT+9 Thứ Tư, 30 tháng 9, 2026
