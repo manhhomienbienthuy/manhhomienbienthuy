@@ -18,6 +18,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
+- [Có lẽ đã đến lúc tôi nên nghỉ việc (2026-10-02)](https://manhhomienbienthuy.github.io/2026/10/02/co-le-da-den-luc-toi-nen-nghi-viec.html)
 - [Fenwick Tree: Cấu trúc dữ liệu tôi ước mình được học sớm hơn (2026-09-19)](https://manhhomienbienthuy.github.io/2026/09/19/fenwick-tree-cau-truc-du-lieu-toi-uoc-minh-duoc-hoc-som-hon.html)
 - [Những lỗi “nhỏ nhưng đau” khi dùng C++ trong competitive programming (2026-07-14)](https://manhhomienbienthuy.github.io/2026/07/14/nhung-loi-nho-nhung-dau-khi-dung-c-trong-competitive-programming.html)
 - [Thuật toán: Ternary Search (2026-06-23)](https://manhhomienbienthuy.github.io/2026/06/23/thuat-toan-ternary-search.html)
@@ -27,7 +28,6 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Tại sao các lệnh UNIX và Unix-like như rm, mv không hỏi xác nhận? (2026-01-15)](https://manhhomienbienthuy.github.io/2026/01/15/tai-sao-cac-lenh-unix-va-unix-like-nhu-rm-mv-khong-hoi-xac-nhan.html)
 - [Năm 2025 nhìn lại (2025-12-31)](https://manhhomienbienthuy.github.io/2025/12/31/nam-2025-nhin-lai.html)
 - [AI Agent là gì? Cách xây dựng một hệ thống thông minh (2025-11-12)](https://manhhomienbienthuy.github.io/2025/11/12/ai-agent-la-gi-cach-xay-dung-mot-he-thong-thong-minh.html)
-- [Hiểu sâu về RAG: Giải pháp AI tiên tiến cho doanh nghiệp (2025-10-06)](https://manhhomienbienthuy.github.io/2025/10/06/hieu-sau-ve-rag-giai-phap-ai-tien-tien-cho-doanh-nghiep.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
@@ -39,8 +39,8 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Test Driven Development (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2015/12/03/test-driven-development.html)
 - [Luyện kỹ năng lập trình (và các kỹ năng khác) với Python Challenge (2026-06-23T03:51:17+00:00)](https://manhhomienbienthuy.github.io/2017/09/24/luyen-ky-nang-lap-trinh-va-cac-ky-nang-khac-voi-python-challenge.html)
 - [KSNCTF write up (2026-04-10T06:30:18+00:00)](https://manhhomienbienthuy.github.io/2015/07/30/ksnctf-write-up.html)
+- [Hiểu sâu về RAG: Giải pháp AI tiên tiến cho doanh nghiệp (2025-12-03T08:12:28+00:00)](https://manhhomienbienthuy.github.io/2025/10/06/hieu-sau-ve-rag-giai-phap-ai-tien-tien-cho-doanh-nghiep.html)
 - [Làm cha mẹ thời nay: vừa nuôi con vừa né “flex” (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2024/03/03/lam-cha-me-thoi-nay-vua-nuoi-con-vua-ne-flex.html)
-- [Lần đầu tiên nhảy việc ở Nhật (2025-09-22T07:09:46+00:00)](https://manhhomienbienthuy.github.io/2021/07/08/lan-dau-tien-nhay-viec-o-nhat.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -133,9 +133,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/04d@2x.png)
 
-Hiện tại, trời mây đen u ám, nhiệt độ **21.26°C**, độ ẩm **88%**, cảm giác như **21.74°C**.
+Hiện tại, trời mây đen u ám, nhiệt độ **19.98°C**, độ ẩm **73%**, cảm giác như **19.94°C**.
 
-Nhiệt độ thấp nhất là **20.12°C** và cao nhất là **22.81°C**
+Nhiệt độ thấp nhất là **18.99°C** và cao nhất là **20.61°C**
 
 Hôm nay mặt trời mọc lúc **05:36** và lặn lúc **17:25**.
 
@@ -143,4 +143,4 @@ Hôm nay mặt trời mọc lúc **05:36** và lặn lúc **17:25**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 09:09:21 GMT+9 Thứ Sáu, 2 tháng 10, 2026
+Lần cập nhật gần nhất lúc 14:52:28 GMT+9 Thứ Sáu, 2 tháng 10, 2026
