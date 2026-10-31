@@ -131,11 +131,11 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Thời tiết hiện tại
 
-![weather](https://openweathermap.org/img/wn/04d@2x.png)
+![weather](https://openweathermap.org/img/wn/01n@2x.png)
 
-Hiện tại, trời mây cụm, nhiệt độ **23.15°C**, độ ẩm **35%**, cảm giác như **22.43°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **16.74°C**, độ ẩm **49%**, cảm giác như **15.75°C**.
 
-Nhiệt độ thấp nhất là **22.03°C** và cao nhất là **24.19°C**
+Nhiệt độ thấp nhất là **15.05°C** và cao nhất là **17.82°C**
 
 Hôm nay mặt trời mọc lúc **06:01** và lặn lúc **16:47**.
 
@@ -143,4 +143,4 @@ Hôm nay mặt trời mọc lúc **06:01** và lặn lúc **16:47**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 16:04:40 GMT+9 Thứ Bảy, 31 tháng 10, 2026
+Lần cập nhật gần nhất lúc 22:43:26 GMT+9 Thứ Bảy, 31 tháng 10, 2026
