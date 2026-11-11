@@ -18,6 +18,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ## Bài viết gần đây
 
+- [Bồi hồi sau lời chào tạm biệt (2026-11-11)](https://manhhomienbienthuy.github.io/2026/11/11/boi-hoi-sau-loi-chao-tam-biet.html)
 - [Những suy nghĩ vẩn vơ về AI: khi tương lai đến sớm hơn tôi tưởng (2026-10-23)](https://manhhomienbienthuy.github.io/2026/10/23/nhung-suy-nghi-van-vo-ve-ai-khi-tuong-lai-den-som-hon-toi-tuong.html)
 - [Có lẽ đã đến lúc tôi nên nghỉ việc (2026-10-02)](https://manhhomienbienthuy.github.io/2026/10/02/co-le-da-den-luc-toi-nen-nghi-viec.html)
 - [Fenwick Tree: Cấu trúc dữ liệu tôi ước mình được học sớm hơn (2026-09-19)](https://manhhomienbienthuy.github.io/2026/09/19/fenwick-tree-cau-truc-du-lieu-toi-uoc-minh-duoc-hoc-som-hon.html)
@@ -27,10 +28,10 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Code “thối” hình thành như thế nào? (2026-03-31)](https://manhhomienbienthuy.github.io/2026/03/31/code-thoi-hinh-thanh-nhu-the-nao.html)
 - [Kỳ đánh giá giữa năm – và những ngày tôi chỉ muốn trốn đi một chút (2026-02-19)](https://manhhomienbienthuy.github.io/2026/02/19/ky-danh-gia-giua-nam-va-nhung-ngay-toi-chi-muon-tron-di-mot-chut.html)
 - [Tại sao các lệnh UNIX và Unix-like như rm, mv không hỏi xác nhận? (2026-01-15)](https://manhhomienbienthuy.github.io/2026/01/15/tai-sao-cac-lenh-unix-va-unix-like-nhu-rm-mv-khong-hoi-xac-nhan.html)
-- [Năm 2025 nhìn lại (2025-12-31)](https://manhhomienbienthuy.github.io/2025/12/31/nam-2025-nhin-lai.html)
 
 ## Bài viết được chỉnh sửa gần đây
 
+- [Hệ mã hoá RSA và chữ ký số (2026-11-11T02:40:01+00:00)](https://manhhomienbienthuy.github.io/2017/02/20/he-ma-hoa-rsa-va-chu-ky-so.html)
 - [Khai phím đầu năm: Tổng hợp hiểu biết về bàn phím cơ (2026-09-23T23:39:52+00:00)](https://manhhomienbienthuy.github.io/2022/01/04/khai-phim-dau-nam-tong-hop-hieu-biet-ve-ban-phim-co.html)
 - [Tính toán song song trong Node.js (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2024/06/18/tinh-toan-song-song-trong-nodejs.html)
 - [Bí ẩn layout QWERTY (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2023/12/12/bi-an-layout-qwerty.html)
@@ -39,8 +40,7 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 - [Test Driven Development (2026-09-18T01:48:29+00:00)](https://manhhomienbienthuy.github.io/2015/12/03/test-driven-development.html)
 - [Luyện kỹ năng lập trình (và các kỹ năng khác) với Python Challenge (2026-06-23T03:51:17+00:00)](https://manhhomienbienthuy.github.io/2017/09/24/luyen-ky-nang-lap-trinh-va-cac-ky-nang-khac-voi-python-challenge.html)
 - [KSNCTF write up (2026-04-10T06:30:18+00:00)](https://manhhomienbienthuy.github.io/2015/07/30/ksnctf-write-up.html)
-- [AI Agent là gì? Cách xây dựng một hệ thống thông minh (2025-12-03T08:19:34+00:00)](https://manhhomienbienthuy.github.io/2025/11/12/ai-agent-la-gi-cach-xay-dung-mot-he-thong-thong-minh.html)
-- [Hiểu sâu về RAG: Giải pháp AI tiên tiến cho doanh nghiệp (2025-12-03T08:12:28+00:00)](https://manhhomienbienthuy.github.io/2025/10/06/hieu-sau-ve-rag-giai-phap-ai-tien-tien-cho-doanh-nghiep.html)
+- [Năm 2025 nhìn lại (2026-01-05T00:56:34+00:00)](https://manhhomienbienthuy.github.io/2025/12/31/nam-2025-nhin-lai.html)
 
 ## Ngôn ngữ lập trình và công cụ phát triển
 
@@ -133,9 +133,9 @@ Tôi là một lập trình viên, hiện đang sinh sống và làm việc tạ
 
 ![weather](https://openweathermap.org/img/wn/01d@2x.png)
 
-Hiện tại, trời bầu trời quang đãng, nhiệt độ **9.64°C**, độ ẩm **70%**, cảm giác như **8.18°C**.
+Hiện tại, trời bầu trời quang đãng, nhiệt độ **14.13°C**, độ ẩm **48%**, cảm giác như **12.85°C**.
 
-Nhiệt độ thấp nhất là **7.9°C** và cao nhất là **10.05°C**
+Nhiệt độ thấp nhất là **12.83°C** và cao nhất là **14.57°C**
 
 Hôm nay mặt trời mọc lúc **06:12** và lặn lúc **16:37**.
 
@@ -143,4 +143,4 @@ Hôm nay mặt trời mọc lúc **06:12** và lặn lúc **16:37**.
 
 Copyright © 2022-2026 [manhhomienbienthuy](https://manhhomienbienthuy.github.io/)
 
-Lần cập nhật gần nhất lúc 08:32:22 GMT+9 Thứ Tư, 11 tháng 11, 2026
+Lần cập nhật gần nhất lúc 12:21:30 GMT+9 Thứ Tư, 11 tháng 11, 2026
