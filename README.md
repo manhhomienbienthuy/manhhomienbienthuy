@@ -22,8 +22,8 @@ Ngoài công việc, tôi thích viết blog, giải thuật toán và ghi lại
 
 Bài viết mới nhất
 
+- [Segment Tree: Cấu trúc dữ liệu khiến tôi mất rất lâu mới dám học (2026-11-20)](https://manhhomienbienthuy.github.io/2026/11/20/segment-tree-cau-truc-du-lieu-khien-toi-mat-rat-lau-moi-dam-hoc.html)
 - [Bồi hồi sau lời chào tạm biệt (2026-11-11)](https://manhhomienbienthuy.github.io/2026/11/11/boi-hoi-sau-loi-chao-tam-biet.html)
 - [Những suy nghĩ vẩn vơ về AI: khi tương lai đến sớm hơn tôi tưởng (2026-10-23)](https://manhhomienbienthuy.github.io/2026/10/23/nhung-suy-nghi-van-vo-ve-ai-khi-tuong-lai-den-som-hon-toi-tuong.html)
 - [Có lẽ đã đến lúc tôi nên nghỉ việc (2026-10-02)](https://manhhomienbienthuy.github.io/2026/10/02/co-le-da-den-luc-toi-nen-nghi-viec.html)
 - [Fenwick Tree: Cấu trúc dữ liệu tôi ước mình được học sớm hơn (2026-09-19)](https://manhhomienbienthuy.github.io/2026/09/19/fenwick-tree-cau-truc-du-lieu-toi-uoc-minh-duoc-hoc-som-hon.html)
-- [Những lỗi “nhỏ nhưng đau” khi dùng C++ trong competitive programming (2026-07-14)](https://manhhomienbienthuy.github.io/2026/07/14/nhung-loi-nho-nhung-dau-khi-dung-c-trong-competitive-programming.html)
